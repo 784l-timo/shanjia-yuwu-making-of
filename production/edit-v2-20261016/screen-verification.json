@@ -1,0 +1,137 @@
+[
+  {
+    "shot": 3,
+    "name": "01-提出问题",
+    "overflow": [
+      {
+        "class": "screen",
+        "width": 1200,
+        "scrollWidth": 1200,
+        "height": 760,
+        "scrollHeight": 760
+      },
+      {
+        "class": "main",
+        "width": 806,
+        "scrollWidth": 806,
+        "height": 550,
+        "scrollHeight": 550
+      },
+      {
+        "class": "aside",
+        "width": 301,
+        "scrollWidth": 301,
+        "height": 554,
+        "scrollHeight": 554
+      }
+    ]
+  },
+  {
+    "shot": 16,
+    "name": "02-换个角度",
+    "overflow": [
+      {
+        "class": "screen",
+        "width": 1200,
+        "scrollWidth": 1200,
+        "height": 760,
+        "scrollHeight": 760
+      },
+      {
+        "class": "main",
+        "width": 806,
+        "scrollWidth": 806,
+        "height": 550,
+        "scrollHeight": 550
+      },
+      {
+        "class": "aside",
+        "width": 301,
+        "scrollWidth": 301,
+        "height": 554,
+        "scrollHeight": 554
+      }
+    ]
+  },
+  {
+    "shot": 18,
+    "name": "03-比较解释",
+    "overflow": [
+      {
+        "class": "screen",
+        "width": 1200,
+        "scrollWidth": 1200,
+        "height": 760,
+        "scrollHeight": 760
+      },
+      {
+        "class": "main",
+        "width": 806,
+        "scrollWidth": 806,
+        "height": 550,
+        "scrollHeight": 550
+      },
+      {
+        "class": "aside",
+        "width": 301,
+        "scrollWidth": 301,
+        "height": 554,
+        "scrollHeight": 554
+      }
+    ]
+  },
+  {
+    "shot": 37,
+    "name": "04-整理问题",
+    "overflow": [
+      {
+        "class": "screen",
+        "width": 1200,
+        "scrollWidth": 1200,
+        "height": 760,
+        "scrollHeight": 760
+      },
+      {
+        "class": "main",
+        "width": 806,
+        "scrollWidth": 806,
+        "height": 550,
+        "scrollHeight": 550
+      },
+      {
+        "class": "aside",
+        "width": 301,
+        "scrollWidth": 301,
+        "height": 554,
+        "scrollHeight": 554
+      }
+    ]
+  },
+  {
+    "shot": 38,
+    "name": "05-形成表达",
+    "overflow": [
+      {
+        "class": "screen",
+        "width": 1200,
+        "scrollWidth": 1200,
+        "height": 760,
+        "scrollHeight": 760
+      },
+      {
+        "class": "main",
+        "width": 806,
+        "scrollWidth": 806,
+        "height": 550,
+        "scrollHeight": 550
+      },
+      {
+        "class": "aside",
+        "width": 301,
+        "scrollWidth": 301,
+        "height": 554,
+        "scrollHeight": 554
+      }
+    ]
+  }
+]

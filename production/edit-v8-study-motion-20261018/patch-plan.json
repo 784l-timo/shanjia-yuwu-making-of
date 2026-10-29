@@ -1,0 +1,46 @@
+{
+  "sources": [
+    {
+      "file": "source-5.mp4",
+      "original": "素材入库/新增动态_20261018/分析项目文档作用 (5).mp4",
+      "sha256": "375aeca8632eda0fb74e72936a150383ee0f2659b31a2f79ced44f556f299794"
+    },
+    {
+      "file": "source-6.mp4",
+      "original": "素材入库/新增动态_20261018/分析项目文档作用 (6).mp4",
+      "sha256": "ee627184b7ea081a068cea0f7b86420ff021536ddce9293b22950ed47e97e24e"
+    }
+  ],
+  "patches": [
+    {
+      "id": "read-first",
+      "start": 21.56,
+      "end": 24.72,
+      "clip": 6,
+      "chapter": 2
+    },
+    {
+      "id": "write-learning",
+      "start": 34.12,
+      "end": 37.12,
+      "clip": 5,
+      "chapter": 2
+    },
+    {
+      "id": "write-notes",
+      "start": 108.56,
+      "end": 111.96,
+      "clip": 5,
+      "chapter": 5
+    },
+    {
+      "id": "read-again",
+      "start": 119.44,
+      "end": 124.96,
+      "clip": 6,
+      "chapter": 6
+    }
+  ],
+  "audio": "copy complete v7 AAC track; source clip audio excluded",
+  "duration": 141.0
+}

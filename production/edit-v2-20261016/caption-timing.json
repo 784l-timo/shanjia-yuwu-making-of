@@ -1,0 +1,554 @@
+[
+  {
+    "segment": 1,
+    "chapter": 1,
+    "text": "AI 几秒钟就能解释“善假于物”。",
+    "start": 6.365,
+    "end": 9.535,
+    "style": "Narration"
+  },
+  {
+    "segment": 1,
+    "chapter": 1,
+    "text": "可看懂了解释，",
+    "start": 9.56,
+    "end": 10.94,
+    "style": "Narration"
+  },
+  {
+    "segment": 1,
+    "chapter": 1,
+    "text": "我又冒出一个问题：",
+    "start": 10.965,
+    "end": 11.645,
+    "style": "Narration"
+  },
+  {
+    "segment": 2,
+    "chapter": 1,
+    "text": "工具能帮我做到越来越多，",
+    "start": 13.525,
+    "end": 15.985,
+    "style": "Narration"
+  },
+  {
+    "segment": 2,
+    "chapter": 1,
+    "text": "那我自己，还要学什么？",
+    "start": 16.175,
+    "end": 18.015,
+    "style": "Narration"
+  },
+  {
+    "segment": 3,
+    "chapter": 2,
+    "text": "君子曰：学不可以已。",
+    "start": 19.805,
+    "end": 23.015,
+    "style": "Quote"
+  },
+  {
+    "segment": 4,
+    "chapter": 2,
+    "text": "青，取之于蓝，而青于蓝；",
+    "start": 24.215,
+    "end": 28.075,
+    "style": "Quote"
+  },
+  {
+    "segment": 4,
+    "chapter": 2,
+    "text": "冰，水为之，而寒于水。",
+    "start": 28.61,
+    "end": 31.985,
+    "style": "Quote"
+  },
+  {
+    "segment": 5,
+    "chapter": 2,
+    "text": "青出于蓝，水凝成冰。",
+    "start": 33.225,
+    "end": 36.535,
+    "style": "Narration"
+  },
+  {
+    "segment": 5,
+    "chapter": 2,
+    "text": "学习，也应该让我发生变化。",
+    "start": 37.06,
+    "end": 39.685,
+    "style": "Narration"
+  },
+  {
+    "segment": 6,
+    "chapter": 2,
+    "text": "我想试试：暂时不看屏幕，",
+    "start": 40.965,
+    "end": 43.885,
+    "style": "Narration"
+  },
+  {
+    "segment": 6,
+    "chapter": 2,
+    "text": "能不能把这句话讲清楚，",
+    "start": 43.94,
+    "end": 45.865,
+    "style": "Narration"
+  },
+  {
+    "segment": 6,
+    "chapter": 2,
+    "text": "再举一个自己的例子。",
+    "start": 46.145,
+    "end": 47.425,
+    "style": "Narration"
+  },
+  {
+    "segment": 7,
+    "chapter": 3,
+    "text": "吾尝终日而思矣，",
+    "start": 49.535,
+    "end": 51.955,
+    "style": "Quote"
+  },
+  {
+    "segment": 7,
+    "chapter": 3,
+    "text": "不如须臾之所学也；",
+    "start": 52.035,
+    "end": 54.615,
+    "style": "Quote"
+  },
+  {
+    "segment": 7,
+    "chapter": 3,
+    "text": "吾尝跂而望矣，",
+    "start": 55.17,
+    "end": 57.085,
+    "style": "Quote"
+  },
+  {
+    "segment": 7,
+    "chapter": 3,
+    "text": "不如登高之博见也。",
+    "start": 57.175,
+    "end": 59.565,
+    "style": "Quote"
+  },
+  {
+    "segment": 8,
+    "chapter": 3,
+    "text": "登高而招，臂非加长也，",
+    "start": 60.775,
+    "end": 63.74,
+    "style": "Quote"
+  },
+  {
+    "segment": 8,
+    "chapter": 3,
+    "text": "而见者远；",
+    "start": 63.765,
+    "end": 64.915,
+    "style": "Quote"
+  },
+  {
+    "segment": 8,
+    "chapter": 3,
+    "text": "顺风而呼，声非加疾也，",
+    "start": 65.44,
+    "end": 68.38,
+    "style": "Quote"
+  },
+  {
+    "segment": 8,
+    "chapter": 3,
+    "text": "而闻者彰。",
+    "start": 68.405,
+    "end": 69.675,
+    "style": "Quote"
+  },
+  {
+    "segment": 9,
+    "chapter": 3,
+    "text": "登高，让我看见原来看不见的地方。",
+    "start": 70.995,
+    "end": 74.345,
+    "style": "Narration"
+  },
+  {
+    "segment": 9,
+    "chapter": 3,
+    "text": "AI 也能帮我找资料、换个角度。",
+    "start": 74.835,
+    "end": 77.255,
+    "style": "Narration"
+  },
+  {
+    "segment": 10,
+    "chapter": 3,
+    "text": "省下来的时间，",
+    "start": 78.215,
+    "end": 79.605,
+    "style": "Narration"
+  },
+  {
+    "segment": 10,
+    "chapter": 3,
+    "text": "我可以用来读原文、比较解释，",
+    "start": 79.635,
+    "end": 82.575,
+    "style": "Narration"
+  },
+  {
+    "segment": 10,
+    "chapter": 3,
+    "text": "把没想通的地方接着想。",
+    "start": 82.675,
+    "end": 84.555,
+    "style": "Narration"
+  },
+  {
+    "segment": 11,
+    "chapter": 4,
+    "text": "假舆马者，非利足也，",
+    "start": 85.775,
+    "end": 88.765,
+    "style": "Quote"
+  },
+  {
+    "segment": 11,
+    "chapter": 4,
+    "text": "而致千里；",
+    "start": 88.825,
+    "end": 90.295,
+    "style": "Quote"
+  },
+  {
+    "segment": 11,
+    "chapter": 4,
+    "text": "假舟楫者，非能水也，",
+    "start": 90.63,
+    "end": 93.385,
+    "style": "Quote"
+  },
+  {
+    "segment": 11,
+    "chapter": 4,
+    "text": "而绝江河。",
+    "start": 93.485,
+    "end": 95.175,
+    "style": "Quote"
+  },
+  {
+    "segment": 12,
+    "chapter": 4,
+    "text": "君子生非异也，",
+    "start": 96.105,
+    "end": 98.495,
+    "style": "Quote"
+  },
+  {
+    "segment": 12,
+    "chapter": 4,
+    "text": "善假于物也。",
+    "start": 98.585,
+    "end": 100.775,
+    "style": "Quote"
+  },
+  {
+    "segment": 13,
+    "chapter": 4,
+    "text": "舟能帮我渡河，",
+    "start": 102.125,
+    "end": 103.805,
+    "style": "Narration"
+  },
+  {
+    "segment": 13,
+    "chapter": 4,
+    "text": "可桨怎样划，还得看水流。",
+    "start": 103.925,
+    "end": 106.915,
+    "style": "Narration"
+  },
+  {
+    "segment": 14,
+    "chapter": 4,
+    "text": "看一看，调一调，",
+    "start": 107.635,
+    "end": 109.21,
+    "style": "Narration"
+  },
+  {
+    "segment": 14,
+    "chapter": 4,
+    "text": "才能朝想去的地方走。",
+    "start": 109.235,
+    "end": 111.155,
+    "style": "Narration"
+  },
+  {
+    "segment": 14,
+    "chapter": 4,
+    "text": "原来，用好工具，",
+    "start": 111.525,
+    "end": 113.09,
+    "style": "Narration"
+  },
+  {
+    "segment": 14,
+    "chapter": 4,
+    "text": "本身也需要学习。",
+    "start": 113.115,
+    "end": 114.095,
+    "style": "Narration"
+  },
+  {
+    "segment": 15,
+    "chapter": 5,
+    "text": "积土成山，风雨兴焉；",
+    "start": 115.965,
+    "end": 119.345,
+    "style": "Quote"
+  },
+  {
+    "segment": 15,
+    "chapter": 5,
+    "text": "积水成渊，蛟龙生焉。",
+    "start": 119.86,
+    "end": 122.835,
+    "style": "Quote"
+  },
+  {
+    "segment": 16,
+    "chapter": 5,
+    "text": "故不积跬步，无以至千里；",
+    "start": 123.955,
+    "end": 127.045,
+    "style": "Quote"
+  },
+  {
+    "segment": 16,
+    "chapter": 5,
+    "text": "不积小流，无以成江海。",
+    "start": 127.36,
+    "end": 130.065,
+    "style": "Quote"
+  },
+  {
+    "segment": 17,
+    "chapter": 5,
+    "text": "我在纸上写下：",
+    "start": 131.345,
+    "end": 132.625,
+    "style": "Narration"
+  },
+  {
+    "segment": 17,
+    "chapter": 5,
+    "text": "“借助工具，能让人做到更多。”",
+    "start": 132.845,
+    "end": 135.355,
+    "style": "Narration"
+  },
+  {
+    "segment": 18,
+    "chapter": 5,
+    "text": "又添上一句：“借助工具，",
+    "start": 136.545,
+    "end": 138.99,
+    "style": "Narration"
+  },
+  {
+    "segment": 18,
+    "chapter": 5,
+    "text": "也要把原来不会的东西学会。”",
+    "start": 139.015,
+    "end": 140.995,
+    "style": "Narration"
+  },
+  {
+    "segment": 19,
+    "chapter": 5,
+    "text": "写到这里，我对“学不可以已”，",
+    "start": 141.975,
+    "end": 145.22,
+    "style": "Narration"
+  },
+  {
+    "segment": 19,
+    "chapter": 5,
+    "text": "有了新的理解。",
+    "start": 145.245,
+    "end": 146.295,
+    "style": "Narration"
+  },
+  {
+    "segment": 20,
+    "chapter": 6,
+    "text": "我又读了一遍：",
+    "start": 147.665,
+    "end": 148.905,
+    "style": "Narration"
+  },
+  {
+    "segment": 20,
+    "chapter": 6,
+    "text": "“君子生非异也，",
+    "start": 149.325,
+    "end": 151.295,
+    "style": "Narration"
+  },
+  {
+    "segment": 20,
+    "chapter": 6,
+    "text": "善假于物也。”",
+    "start": 151.385,
+    "end": 152.825,
+    "style": "Narration"
+  },
+  {
+    "segment": 21,
+    "chapter": 6,
+    "text": "这句话让我想到：",
+    "start": 154.035,
+    "end": 155.655,
+    "style": "Narration"
+  },
+  {
+    "segment": 21,
+    "chapter": 6,
+    "text": "一个普通的人，",
+    "start": 155.965,
+    "end": 157.33,
+    "style": "Narration"
+  },
+  {
+    "segment": 21,
+    "chapter": 6,
+    "text": "也能通过学习、借助外物，",
+    "start": 157.355,
+    "end": 160.195,
+    "style": "Narration"
+  },
+  {
+    "segment": 21,
+    "chapter": 6,
+    "text": "做到从前做不到的事。",
+    "start": 160.29,
+    "end": 161.975,
+    "style": "Narration"
+  },
+  {
+    "segment": 22,
+    "chapter": 6,
+    "text": "从前，人借舟楫渡过江河。",
+    "start": 163.565,
+    "end": 167.345,
+    "style": "Narration"
+  },
+  {
+    "segment": 22,
+    "chapter": 6,
+    "text": "今天，我也可以借 AI 接触更多知识，",
+    "start": 167.71,
+    "end": 171.845,
+    "style": "Narration"
+  },
+  {
+    "segment": 22,
+    "chapter": 6,
+    "text": "尝试更多想法。",
+    "start": 171.965,
+    "end": 173.175,
+    "style": "Narration"
+  },
+  {
+    "segment": 22,
+    "chapter": 6,
+    "text": "工具让更多事情成为可能，",
+    "start": 174.055,
+    "end": 176.825,
+    "style": "Narration"
+  },
+  {
+    "segment": 22,
+    "chapter": 6,
+    "text": "学习让我把这些帮助，",
+    "start": 177.13,
+    "end": 179.59,
+    "style": "Narration"
+  },
+  {
+    "segment": 22,
+    "chapter": 6,
+    "text": "一点点变成自己的本领。",
+    "start": 179.615,
+    "end": 181.415,
+    "style": "Narration"
+  },
+  {
+    "segment": 23,
+    "chapter": 6,
+    "text": "所以，我还要学着提出自己的问题，",
+    "start": 182.845,
+    "end": 186.635,
+    "style": "Narration"
+  },
+  {
+    "segment": 23,
+    "chapter": 6,
+    "text": "分辨不同的解释，",
+    "start": 186.875,
+    "end": 188.885,
+    "style": "Narration"
+  },
+  {
+    "segment": 23,
+    "chapter": 6,
+    "text": "把想法真正做出来。",
+    "start": 188.995,
+    "end": 191.325,
+    "style": "Narration"
+  },
+  {
+    "segment": 23,
+    "chapter": 6,
+    "text": "一次次尝试，一点点积累，",
+    "start": 191.755,
+    "end": 194.915,
+    "style": "Narration"
+  },
+  {
+    "segment": 23,
+    "chapter": 6,
+    "text": "我也能超越今天的自己。",
+    "start": 195.315,
+    "end": 197.615,
+    "style": "Narration"
+  },
+  {
+    "segment": 24,
+    "chapter": 6,
+    "text": "“善假于物”，也要“学不可以已”。",
+    "start": 198.735,
+    "end": 203.155,
+    "style": "Narration"
+  },
+  {
+    "segment": 25,
+    "chapter": 6,
+    "text": "我想借今天的舟楫，",
+    "start": 204.035,
+    "end": 206.335,
+    "style": "Narration"
+  },
+  {
+    "segment": 25,
+    "chapter": 6,
+    "text": "去抵达昨天还到不了的地方。",
+    "start": 206.465,
+    "end": 208.995,
+    "style": "Narration"
+  }
+]

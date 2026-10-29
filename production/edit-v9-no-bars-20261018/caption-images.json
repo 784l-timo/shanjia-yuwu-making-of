@@ -1,0 +1,65 @@
+[
+  {
+    "file": "read-first-0.png",
+    "start": 21.73481081081081,
+    "end": 24.025189189189188,
+    "text": "君子曰：学不可以已。",
+    "style": "Quote"
+  },
+  {
+    "file": "write-learning-0.png",
+    "start": 34.04648648648649,
+    "end": 35.91945945945946,
+    "text": "学习，也应该让我发生变化。",
+    "style": "Narration"
+  },
+  {
+    "file": "write-learning-1.png",
+    "start": 36.83275675675676,
+    "end": 38.91621621621621,
+    "text": "我想试试：暂时不看屏幕，",
+    "style": "Narration"
+  },
+  {
+    "file": "write-notes-0.png",
+    "start": 108.67655107187895,
+    "end": 109.53042244640605,
+    "text": "我在纸上写下：",
+    "style": "Narration"
+  },
+  {
+    "file": "write-notes-1.png",
+    "start": 109.6771815889029,
+    "end": 111.35156998738965,
+    "text": "“借助工具，能让人做到更多。”",
+    "style": "Narration"
+  },
+  {
+    "file": "read-again-0.png",
+    "start": 119.59925788497218,
+    "end": 120.66671614100187,
+    "text": "我又读了一遍：",
+    "style": "Narration"
+  },
+  {
+    "file": "read-again-1.png",
+    "start": 121.0282745825603,
+    "end": 122.72415584415585,
+    "text": "“君子生非异也，",
+    "style": "Narration"
+  },
+  {
+    "file": "read-again-2.png",
+    "start": 122.80163265306123,
+    "end": 124.04126159554731,
+    "text": "善假于物也。”",
+    "style": "Narration"
+  },
+  {
+    "file": "read-again-3.png",
+    "start": 124.94946196660483,
+    "end": 128.43161410018553,
+    "text": "今天，我也可以借 AI 接触更多知识，",
+    "style": "Narration"
+  }
+]

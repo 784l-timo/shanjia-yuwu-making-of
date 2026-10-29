@@ -1,0 +1,42 @@
+[
+  {
+    "id": "water",
+    "start": 28.68,
+    "end": 37.12,
+    "source": "sources/水凝成冰.mp4",
+    "usable": 9.84,
+    "reason": "连续呈现水面到冰晶，取消 33 秒处跳切到静帧"
+  },
+  {
+    "id": "ascent",
+    "start": 55.24,
+    "end": 60.56,
+    "source": "sources/登阶背影.mp4",
+    "usable": 5.32,
+    "reason": "用户新增登阶素材；对应跂而望与登高博见"
+  },
+  {
+    "id": "summit",
+    "start": 60.56,
+    "end": 74.92,
+    "source": "sources/高处远眺.mp4",
+    "usable": 7.84,
+    "reason": "用户新增高处远眺素材；连续承载登高、顺风与随后理解"
+  },
+  {
+    "id": "boat-main",
+    "start": 90.72,
+    "end": 95.88,
+    "source": "sources/舟行测试.mp4",
+    "usable": 3.84,
+    "reason": "原慢放靠重复帧；改为运动补帧"
+  },
+  {
+    "id": "boat-return",
+    "start": 163.4,
+    "end": 167.8,
+    "source": "sources/舟行测试.mp4",
+    "usable": 3.84,
+    "reason": "同一舟行素材的第二次慢放同步修订"
+  }
+]

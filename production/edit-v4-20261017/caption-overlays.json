@@ -1,0 +1,122 @@
+[
+  {
+    "id": 0,
+    "start": 28.61,
+    "end": 31.98,
+    "style": "Quote",
+    "text": "冰，水为之，而寒于水。",
+    "file": "captions/00.png"
+  },
+  {
+    "id": 1,
+    "start": 33.22,
+    "end": 36.53,
+    "style": "Narration",
+    "text": "青出于蓝，水凝成冰。",
+    "file": "captions/01.png"
+  },
+  {
+    "id": 2,
+    "start": 37.06,
+    "end": 39.68,
+    "style": "Narration",
+    "text": "学习，也应该让我发生变化。",
+    "file": "captions/02.png"
+  },
+  {
+    "id": 3,
+    "start": 55.17,
+    "end": 57.08,
+    "style": "Quote",
+    "text": "吾尝跂而望矣，",
+    "file": "captions/03.png"
+  },
+  {
+    "id": 4,
+    "start": 57.18,
+    "end": 59.56,
+    "style": "Quote",
+    "text": "不如登高之博见也。",
+    "file": "captions/04.png"
+  },
+  {
+    "id": 5,
+    "start": 60.78,
+    "end": 63.74,
+    "style": "Quote",
+    "text": "登高而招，臂非加长也，",
+    "file": "captions/05.png"
+  },
+  {
+    "id": 6,
+    "start": 63.76,
+    "end": 64.92,
+    "style": "Quote",
+    "text": "而见者远；",
+    "file": "captions/06.png"
+  },
+  {
+    "id": 7,
+    "start": 65.44,
+    "end": 68.38,
+    "style": "Quote",
+    "text": "顺风而呼，声非加疾也，",
+    "file": "captions/07.png"
+  },
+  {
+    "id": 8,
+    "start": 68.4,
+    "end": 69.68,
+    "style": "Quote",
+    "text": "而闻者彰。",
+    "file": "captions/08.png"
+  },
+  {
+    "id": 9,
+    "start": 71.0,
+    "end": 74.34,
+    "style": "Narration",
+    "text": "登高，让我看见原来看不见的地方。",
+    "file": "captions/09.png"
+  },
+  {
+    "id": 10,
+    "start": 74.83,
+    "end": 77.26,
+    "style": "Narration",
+    "text": "AI 也能帮我找资料、换个角度。",
+    "file": "captions/10.png"
+  },
+  {
+    "id": 11,
+    "start": 90.63,
+    "end": 93.38,
+    "style": "Quote",
+    "text": "假舟楫者，非能水也，",
+    "file": "captions/11.png"
+  },
+  {
+    "id": 12,
+    "start": 93.47999999999999,
+    "end": 95.18,
+    "style": "Quote",
+    "text": "而绝江河。",
+    "file": "captions/12.png"
+  },
+  {
+    "id": 13,
+    "start": 163.56,
+    "end": 167.34,
+    "style": "Narration",
+    "text": "从前，人借舟楫渡过江河。",
+    "file": "captions/13.png"
+  },
+  {
+    "id": 14,
+    "start": 167.71,
+    "end": 171.84,
+    "style": "Narration",
+    "text": "今天，我也可以借 AI 接触更多知识，",
+    "file": "captions/14.png"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "desk-motion",
+    "start": 3.0,
+    "end": 9.64,
+    "source": "sources/01_夜间书桌.mp4",
+    "usable": 4.84
+  },
+  {
+    "id": "question-motion",
+    "start": 9.64,
+    "end": 13.28,
+    "source": "sources/02_屏幕提问.mp4",
+    "usable": 3.64
+  },
+  {
+    "id": "pause-motion",
+    "start": 13.28,
+    "end": 19.56,
+    "source": "sources/03_停笔凝视.mp4",
+    "usable": 4.84
+  }
+]

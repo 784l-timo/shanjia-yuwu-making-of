@@ -1,0 +1,9 @@
+{
+  "original_audio": 146.9866875,
+  "adjusted_audio": 140.1593125,
+  "total": 146.16,
+  "alignment_edit_distance": 44,
+  "reference_chars": 594,
+  "recognized_chars": 592,
+  "voice_speed_unchanged": true
+}

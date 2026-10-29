@@ -1,0 +1,386 @@
+[
+  {
+    "start": 0,
+    "end": 3,
+    "asset": "desk-opening.jpg",
+    "segment": 0,
+    "id": 1,
+    "frames": 75
+  },
+  {
+    "start": 3.0,
+    "end": 6.64,
+    "asset": "desk-opening.jpg",
+    "segment": 1,
+    "id": 2,
+    "frames": 91
+  },
+  {
+    "start": 6.64,
+    "end": 10.28,
+    "asset": "screen-question.jpg",
+    "segment": 1,
+    "id": 3,
+    "frames": 91
+  },
+  {
+    "start": 10.28,
+    "end": 16.56,
+    "asset": "pencil-pause.jpg",
+    "segment": 2,
+    "id": 4,
+    "frames": 157
+  },
+  {
+    "start": 16.56,
+    "end": 20.96,
+    "asset": "book-reading.jpg",
+    "segment": 3,
+    "id": 5,
+    "frames": 110
+  },
+  {
+    "start": 20.96,
+    "end": 25.68,
+    "asset": "indigo-dye.mp4",
+    "segment": 4,
+    "id": 6,
+    "frames": 118
+  },
+  {
+    "start": 25.68,
+    "end": 30.0,
+    "asset": "water-freezing.mp4",
+    "segment": 4,
+    "id": 7,
+    "frames": 108
+  },
+  {
+    "start": 30.0,
+    "end": 34.12,
+    "asset": "ice.jpg",
+    "segment": 5,
+    "id": 8,
+    "frames": 103
+  },
+  {
+    "start": 34.12,
+    "end": 37.72,
+    "asset": "writing-keyword.jpg",
+    "segment": 5,
+    "id": 9,
+    "frames": 90
+  },
+  {
+    "start": 37.72,
+    "end": 46.16,
+    "asset": "pencil-pause.jpg",
+    "segment": 6,
+    "id": 10,
+    "frames": 211
+  },
+  {
+    "start": 46.16,
+    "end": 52.24,
+    "asset": "low-view.jpg",
+    "segment": 7,
+    "id": 11,
+    "frames": 152
+  },
+  {
+    "start": 52.24,
+    "end": 57.56,
+    "asset": "mountain-steps.jpg",
+    "segment": 7,
+    "id": 12,
+    "frames": 133
+  },
+  {
+    "start": 57.56,
+    "end": 62.52,
+    "asset": "high-view.jpg",
+    "segment": 8,
+    "id": 13,
+    "frames": 124
+  },
+  {
+    "start": 62.52,
+    "end": 67.76,
+    "asset": "wind-road.jpg",
+    "segment": 8,
+    "id": 14,
+    "frames": 131
+  },
+  {
+    "start": 67.76,
+    "end": 71.92,
+    "asset": "high-view.jpg",
+    "segment": 9,
+    "id": 15,
+    "frames": 104
+  },
+  {
+    "start": 71.92,
+    "end": 75.04,
+    "asset": "screen-question.jpg",
+    "segment": 9,
+    "id": 16,
+    "frames": 78
+  },
+  {
+    "start": 75.04,
+    "end": 78.52,
+    "asset": "book-reading.jpg",
+    "segment": 10,
+    "id": 17,
+    "frames": 87
+  },
+  {
+    "start": 78.52,
+    "end": 82.6,
+    "asset": "screen-revision.jpg",
+    "segment": 10,
+    "id": 18,
+    "frames": 102
+  },
+  {
+    "start": 82.6,
+    "end": 87.72,
+    "asset": "wind-road.jpg",
+    "segment": 11,
+    "id": 19,
+    "frames": 128
+  },
+  {
+    "start": 87.72,
+    "end": 92.88,
+    "asset": "boat-test.mp4",
+    "segment": 11,
+    "id": 20,
+    "frames": 129
+  },
+  {
+    "start": 92.88,
+    "end": 98.92,
+    "asset": "riverbank-corrected.jpg",
+    "segment": 12,
+    "id": 21,
+    "frames": 151
+  },
+  {
+    "start": 98.92,
+    "end": 101.0,
+    "asset": "boat.png",
+    "segment": 13,
+    "id": 22,
+    "frames": 52
+  },
+  {
+    "start": 101.0,
+    "end": 104.48,
+    "asset": "paddle-test.mp4",
+    "segment": 13,
+    "id": 23,
+    "frames": 87
+  },
+  {
+    "start": 104.48,
+    "end": 108.6,
+    "asset": "paddle-adjusted.jpg",
+    "segment": 14,
+    "id": 24,
+    "frames": 103
+  },
+  {
+    "start": 108.6,
+    "end": 112.76,
+    "asset": "river-wide.png",
+    "segment": 14,
+    "id": 25,
+    "frames": 104
+  },
+  {
+    "start": 112.76,
+    "end": 116.92,
+    "asset": "high-view.jpg",
+    "segment": 15,
+    "id": 26,
+    "frames": 104
+  },
+  {
+    "start": 116.92,
+    "end": 120.72,
+    "asset": "river-wide.png",
+    "segment": 15,
+    "id": 27,
+    "frames": 95
+  },
+  {
+    "start": 120.72,
+    "end": 124.44,
+    "asset": "mountain-steps.jpg",
+    "segment": 16,
+    "id": 28,
+    "frames": 93
+  },
+  {
+    "start": 124.44,
+    "end": 128.16,
+    "asset": "river-wide.png",
+    "segment": 16,
+    "id": 29,
+    "frames": 93
+  },
+  {
+    "start": 128.16,
+    "end": 133.28,
+    "asset": "writing-keyword.jpg",
+    "segment": 17,
+    "id": 30,
+    "frames": 128
+  },
+  {
+    "start": 133.28,
+    "end": 138.84,
+    "asset": "paper-revision.jpg",
+    "segment": 18,
+    "id": 31,
+    "frames": 139
+  },
+  {
+    "start": 138.84,
+    "end": 144.48,
+    "asset": "desk-return.jpg",
+    "segment": 19,
+    "id": 32,
+    "frames": 141
+  },
+  {
+    "start": 144.48,
+    "end": 150.88,
+    "asset": "book-reading.jpg",
+    "segment": 20,
+    "id": 33,
+    "frames": 160
+  },
+  {
+    "start": 150.88,
+    "end": 154.44,
+    "asset": "desk-return.jpg",
+    "segment": 21,
+    "id": 34,
+    "frames": 89
+  },
+  {
+    "start": 154.44,
+    "end": 160.4,
+    "asset": "pencil-pause.jpg",
+    "segment": 21,
+    "id": 35,
+    "frames": 149
+  },
+  {
+    "start": 160.4,
+    "end": 164.8,
+    "asset": "boat-test.mp4",
+    "segment": 22,
+    "id": 36,
+    "frames": 110
+  },
+  {
+    "start": 164.8,
+    "end": 171.12,
+    "asset": "screen-question.jpg",
+    "segment": 22,
+    "id": 37,
+    "frames": 158
+  },
+  {
+    "start": 171.12,
+    "end": 174.2,
+    "asset": "screen-revision.jpg",
+    "segment": 22,
+    "id": 38,
+    "frames": 77
+  },
+  {
+    "start": 174.2,
+    "end": 179.64,
+    "asset": "paper-revision.jpg",
+    "segment": 22,
+    "id": 39,
+    "frames": 136
+  },
+  {
+    "start": 179.64,
+    "end": 183.96,
+    "asset": "pencil-pause.jpg",
+    "segment": 23,
+    "id": 40,
+    "frames": 108
+  },
+  {
+    "start": 183.96,
+    "end": 186.08,
+    "asset": "book-reading.jpg",
+    "segment": 23,
+    "id": 41,
+    "frames": 53
+  },
+  {
+    "start": 186.08,
+    "end": 188.84,
+    "asset": "writing-keyword.jpg",
+    "segment": 23,
+    "id": 42,
+    "frames": 69
+  },
+  {
+    "start": 188.84,
+    "end": 192.4,
+    "asset": "paddle-test.mp4",
+    "segment": 23,
+    "id": 43,
+    "frames": 89
+  },
+  {
+    "start": 192.4,
+    "end": 195.56,
+    "asset": "high-view.jpg",
+    "segment": 23,
+    "id": 44,
+    "frames": 79
+  },
+  {
+    "start": 195.56,
+    "end": 200.8,
+    "asset": "book-reading.jpg",
+    "segment": 24,
+    "id": 45,
+    "frames": 131
+  },
+  {
+    "start": 200.8,
+    "end": 203.52,
+    "asset": "boat-test.mp4",
+    "segment": 25,
+    "id": 46,
+    "frames": 68
+  },
+  {
+    "start": 203.52,
+    "end": 206.64,
+    "asset": "river-wide.png",
+    "segment": 25,
+    "id": 47,
+    "frames": 78
+  },
+  {
+    "start": 206.64,
+    "end": 209.64,
+    "asset": "desk-return.jpg",
+    "segment": 25,
+    "id": 48,
+    "frames": 75
+  }
+]

@@ -1,0 +1,111 @@
+{
+  "mode": "chapter-level audition; transcript and order not yet confirmed",
+  "source": "shanjia-voice-preview-20261015/edit-v6-20261017/善假于物_配音预演_v6_开场三镜动态.mp4",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "答案与理解",
+      "recording": "新录音 2.m4a",
+      "duration": 18.56,
+      "source_ranges": [
+        [
+          3,
+          19.56
+        ]
+      ],
+      "voice_offset": 0.28,
+      "file": "chapter-1.mp4",
+      "start": 3,
+      "end": 21.56
+    },
+    {
+      "chapter": 2,
+      "title": "学习使人改变",
+      "recording": "新录音 3.m4a",
+      "duration": 21.12,
+      "source_ranges": [
+        [
+          19.56,
+          49.16
+        ]
+      ],
+      "voice_offset": 0.28,
+      "file": "chapter-2.mp4",
+      "start": 21.56,
+      "end": 42.68
+    },
+    {
+      "chapter": 3,
+      "title": "从思考到看见",
+      "recording": "新录音 4.m4a",
+      "duration": 32.68,
+      "source_ranges": [
+        [
+          49.16,
+          85.6
+        ]
+      ],
+      "voice_offset": 0.28,
+      "file": "chapter-3.mp4",
+      "start": 42.68,
+      "end": 75.36
+    },
+    {
+      "chapter": 4,
+      "title": "舟楫渡河",
+      "recording": "新录音 5.m4a",
+      "duration": 22.92,
+      "source_ranges": [
+        [
+          85.6,
+          115.76
+        ]
+      ],
+      "voice_offset": 0.28,
+      "file": "chapter-4.mp4",
+      "start": 75.36,
+      "end": 98.28
+    },
+    {
+      "chapter": 5,
+      "title": "积累与判断",
+      "recording": "新录音 6.m4a",
+      "duration": 21.16,
+      "source_ranges": [
+        [
+          115.76,
+          147.48
+        ]
+      ],
+      "voice_offset": 0.28,
+      "file": "chapter-5.mp4",
+      "start": 98.28,
+      "end": 119.44
+    },
+    {
+      "chapter": 6,
+      "title": "回到当下",
+      "recording": "新录音 7.m4a",
+      "duration": 18.56,
+      "source_ranges": [
+        [
+          147.48,
+          153.88
+        ],
+        [
+          167.8,
+          174.12
+        ],
+        [
+          203.8,
+          212.64
+        ]
+      ],
+      "voice_offset": 0.28,
+      "file": "chapter-6.mp4",
+      "start": 119.44,
+      "end": 138.0
+    }
+  ],
+  "duration": 141.0
+}

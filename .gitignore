@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+__pycache__/
+node_modules/
+*.mp4
+*.m4a
+*.wav
+*.mp3
+*.zip

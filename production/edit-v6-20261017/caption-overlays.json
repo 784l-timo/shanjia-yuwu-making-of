@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "start": 6.36,
+    "end": 9.53,
+    "style": "Narration",
+    "text": "AI 几秒钟就能解释“善假于物”。",
+    "file": "captions/00.png"
+  },
+  {
+    "id": 1,
+    "start": 9.56,
+    "end": 10.94,
+    "style": "Narration",
+    "text": "可看懂了解释，",
+    "file": "captions/01.png"
+  },
+  {
+    "id": 2,
+    "start": 10.96,
+    "end": 11.64,
+    "style": "Narration",
+    "text": "我又冒出一个问题：",
+    "file": "captions/02.png"
+  },
+  {
+    "id": 3,
+    "start": 13.52,
+    "end": 15.98,
+    "style": "Narration",
+    "text": "工具能帮我做到越来越多，",
+    "file": "captions/03.png"
+  },
+  {
+    "id": 4,
+    "start": 16.18,
+    "end": 18.02,
+    "style": "Narration",
+    "text": "那我自己，还要学什么？",
+    "file": "captions/04.png"
+  }
+]

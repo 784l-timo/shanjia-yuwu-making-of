@@ -1,0 +1,3849 @@
+[
+  {
+    "id": 1,
+    "chapter": 1,
+    "title": "答案与理解",
+    "kind": "new",
+    "text": "AI 几秒钟就能解释“善假于物”。可看懂了解释，我又冒出一个问题：",
+    "pause_after": 0.48,
+    "start": 6.0,
+    "end": 13.28,
+    "spoken": 6.792,
+    "words": [
+      {
+        "confidence": 0.7742206,
+        "endTime": 0.645,
+        "startTime": 0.435,
+        "word": "AI"
+      },
+      {
+        "confidence": 0.7251542,
+        "endTime": 0.875,
+        "startTime": 0.645,
+        "word": "几"
+      },
+      {
+        "confidence": 0.9654104,
+        "endTime": 1.075,
+        "startTime": 0.875,
+        "word": "秒"
+      },
+      {
+        "confidence": 0.9663423,
+        "endTime": 1.285,
+        "startTime": 1.075,
+        "word": "钟"
+      },
+      {
+        "confidence": 0.8291025,
+        "endTime": 1.415,
+        "startTime": 1.285,
+        "word": "就"
+      },
+      {
+        "confidence": 0.94576705,
+        "endTime": 1.565,
+        "startTime": 1.415,
+        "word": "能"
+      },
+      {
+        "confidence": 0.84545654,
+        "endTime": 1.745,
+        "startTime": 1.565,
+        "word": "解"
+      },
+      {
+        "confidence": 0.2029219,
+        "endTime": 1.775,
+        "startTime": 1.745,
+        "word": "释“"
+      },
+      {
+        "confidence": 0.8374033,
+        "endTime": 2.365,
+        "startTime": 2.015,
+        "word": "善"
+      },
+      {
+        "confidence": 0.8815062,
+        "endTime": 2.615,
+        "startTime": 2.365,
+        "word": "假"
+      },
+      {
+        "confidence": 0.8729325,
+        "endTime": 2.825,
+        "startTime": 2.615,
+        "word": "于"
+      },
+      {
+        "confidence": 0.45473212,
+        "endTime": 3.625,
+        "startTime": 3.595,
+        "word": "物”。"
+      },
+      {
+        "confidence": 0.8662431,
+        "endTime": 3.7650416,
+        "startTime": 3.6300416,
+        "word": "可"
+      },
+      {
+        "confidence": 0.9467033,
+        "endTime": 4.055042,
+        "startTime": 3.7650416,
+        "word": "看"
+      },
+      {
+        "confidence": 0.93698764,
+        "endTime": 4.1950417,
+        "startTime": 4.055042,
+        "word": "懂"
+      },
+      {
+        "confidence": 0.96216434,
+        "endTime": 4.3150415,
+        "startTime": 4.1950417,
+        "word": "了"
+      },
+      {
+        "confidence": 0.8827046,
+        "endTime": 4.5650415,
+        "startTime": 4.3150415,
+        "word": "解"
+      },
+      {
+        "confidence": 0.96577674,
+        "endTime": 4.9650416,
+        "startTime": 4.5650415,
+        "word": "释，"
+      },
+      {
+        "confidence": 0.2687491,
+        "endTime": 5.0650415,
+        "startTime": 5.035042,
+        "word": "我"
+      },
+      {
+        "confidence": 0.2006625,
+        "endTime": 5.0950418,
+        "startTime": 5.0650415,
+        "word": "又"
+      },
+      {
+        "confidence": 0.2175545,
+        "endTime": 5.2350416,
+        "startTime": 5.1750417,
+        "word": "冒"
+      },
+      {
+        "confidence": 0.1204418,
+        "endTime": 5.2950416,
+        "startTime": 5.2350416,
+        "word": "出"
+      },
+      {
+        "confidence": 0.5162449,
+        "endTime": 5.3450418,
+        "startTime": 5.2950416,
+        "word": "一"
+      },
+      {
+        "confidence": 0.2814551,
+        "endTime": 5.4050417,
+        "startTime": 5.3450418,
+        "word": "个"
+      },
+      {
+        "confidence": 0.30651978,
+        "endTime": 5.4350414,
+        "startTime": 5.4050417,
+        "word": "问"
+      },
+      {
+        "confidence": 0.15394275,
+        "endTime": 5.4650416,
+        "startTime": 5.4350414,
+        "word": "题："
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chapter": 1,
+    "title": "答案与理解",
+    "kind": "new",
+    "text": "工具能帮我做到越来越多，那我自己，还要学什么？",
+    "pause_after": 1.0,
+    "start": 13.28,
+    "end": 19.56,
+    "spoken": 5.256,
+    "words": [
+      {
+        "confidence": 0.8214368,
+        "endTime": 0.535,
+        "startTime": 0.315,
+        "word": "工"
+      },
+      {
+        "confidence": 0.777703,
+        "endTime": 0.775,
+        "startTime": 0.535,
+        "word": "具"
+      },
+      {
+        "confidence": 0.9714285,
+        "endTime": 0.985,
+        "startTime": 0.775,
+        "word": "能"
+      },
+      {
+        "confidence": 0.9629085,
+        "endTime": 1.105,
+        "startTime": 0.985,
+        "word": "帮"
+      },
+      {
+        "confidence": 0.9589127,
+        "endTime": 1.275,
+        "startTime": 1.105,
+        "word": "我"
+      },
+      {
+        "confidence": 0.90740997,
+        "endTime": 1.475,
+        "startTime": 1.275,
+        "word": "做"
+      },
+      {
+        "confidence": 0.92626977,
+        "endTime": 1.645,
+        "startTime": 1.475,
+        "word": "到"
+      },
+      {
+        "confidence": 0.94628626,
+        "endTime": 1.815,
+        "startTime": 1.645,
+        "word": "越"
+      },
+      {
+        "confidence": 0.9741308,
+        "endTime": 1.975,
+        "startTime": 1.815,
+        "word": "来"
+      },
+      {
+        "confidence": 0.9713257,
+        "endTime": 2.125,
+        "startTime": 1.975,
+        "word": "越"
+      },
+      {
+        "confidence": 0.9717058,
+        "endTime": 2.525,
+        "startTime": 2.125,
+        "word": "多，"
+      },
+      {
+        "confidence": 0.94763345,
+        "endTime": 3.075,
+        "startTime": 2.965,
+        "word": "那"
+      },
+      {
+        "confidence": 0.98403394,
+        "endTime": 3.225,
+        "startTime": 3.075,
+        "word": "我"
+      },
+      {
+        "confidence": 0.9427015,
+        "endTime": 3.415,
+        "startTime": 3.225,
+        "word": "自"
+      },
+      {
+        "confidence": 0.97076285,
+        "endTime": 3.845,
+        "startTime": 3.415,
+        "word": "己，"
+      },
+      {
+        "confidence": 0.9448361,
+        "endTime": 4.265,
+        "startTime": 4.035,
+        "word": "还"
+      },
+      {
+        "confidence": 0.9472084,
+        "endTime": 4.375,
+        "startTime": 4.265,
+        "word": "要"
+      },
+      {
+        "confidence": 0.24764903,
+        "endTime": 4.435,
+        "startTime": 4.375,
+        "word": "学"
+      },
+      {
+        "confidence": 0.18490033,
+        "endTime": 4.495,
+        "startTime": 4.435,
+        "word": "什"
+      },
+      {
+        "confidence": 0.22511522,
+        "endTime": 4.555,
+        "startTime": 4.495,
+        "word": "么？"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chapter": 2,
+    "title": "学习使人改变",
+    "kind": "quote",
+    "text": "君子曰：学不可以已。",
+    "pause_after": 0.65,
+    "start": 19.56,
+    "end": 23.96,
+    "spoken": 3.744,
+    "words": [
+      {
+        "confidence": 0.66571176,
+        "endTime": 0.535,
+        "startTime": 0.315,
+        "word": "君"
+      },
+      {
+        "confidence": 0.810676,
+        "endTime": 0.765,
+        "startTime": 0.535,
+        "word": "子"
+      },
+      {
+        "confidence": 0.306001,
+        "endTime": 1.135,
+        "startTime": 1.105,
+        "word": "曰："
+      },
+      {
+        "confidence": 0.83685553,
+        "endTime": 2.125,
+        "startTime": 1.555,
+        "word": "学"
+      },
+      {
+        "confidence": 0.981271,
+        "endTime": 2.545,
+        "startTime": 2.405,
+        "word": "不"
+      },
+      {
+        "confidence": 0.84476644,
+        "endTime": 2.815,
+        "startTime": 2.545,
+        "word": "可"
+      },
+      {
+        "confidence": 0.6811455,
+        "endTime": 2.875,
+        "startTime": 2.815,
+        "word": "以"
+      },
+      {
+        "confidence": 0.81854284,
+        "endTime": 3.275,
+        "startTime": 2.875,
+        "word": "已。"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chapter": 2,
+    "title": "学习使人改变",
+    "kind": "quote",
+    "text": "青，取之于蓝，而青于蓝；冰，水为之，而寒于水。",
+    "pause_after": 0.85,
+    "start": 23.96,
+    "end": 33.0,
+    "spoken": 8.184,
+    "words": [
+      {
+        "confidence": 0.81707454,
+        "endTime": 0.855,
+        "startTime": 0.325,
+        "word": "青，"
+      },
+      {
+        "confidence": 0.86217964,
+        "endTime": 1.645,
+        "startTime": 1.325,
+        "word": "取"
+      },
+      {
+        "confidence": 0.908944,
+        "endTime": 1.865,
+        "startTime": 1.645,
+        "word": "之"
+      },
+      {
+        "confidence": 0.9627868,
+        "endTime": 2.065,
+        "startTime": 1.865,
+        "word": "于"
+      },
+      {
+        "confidence": 0.8869529,
+        "endTime": 2.525,
+        "startTime": 2.065,
+        "word": "蓝，"
+      },
+      {
+        "confidence": 0.7950841,
+        "endTime": 2.925,
+        "startTime": 2.815,
+        "word": "而"
+      },
+      {
+        "confidence": 0.8100953,
+        "endTime": 3.445,
+        "startTime": 2.925,
+        "word": "青"
+      },
+      {
+        "confidence": 0.7635964,
+        "endTime": 3.565,
+        "startTime": 3.445,
+        "word": "于"
+      },
+      {
+        "confidence": 0.8635498,
+        "endTime": 3.935,
+        "startTime": 3.565,
+        "word": "蓝；"
+      },
+      {
+        "confidence": 0.5465074,
+        "endTime": 4.7950416,
+        "startTime": 4.7200418,
+        "word": "冰，"
+      },
+      {
+        "confidence": 0.8862246,
+        "endTime": 5.645042,
+        "startTime": 5.2150416,
+        "word": "水"
+      },
+      {
+        "confidence": 0.8372133,
+        "endTime": 5.915042,
+        "startTime": 5.645042,
+        "word": "为"
+      },
+      {
+        "confidence": 0.90239793,
+        "endTime": 6.335042,
+        "startTime": 5.915042,
+        "word": "之，"
+      },
+      {
+        "confidence": 0.534572,
+        "endTime": 6.9650416,
+        "startTime": 6.8850417,
+        "word": "而"
+      },
+      {
+        "confidence": 0.6032715,
+        "endTime": 7.305042,
+        "startTime": 6.9650416,
+        "word": "寒"
+      },
+      {
+        "confidence": 0.9169631,
+        "endTime": 7.495042,
+        "startTime": 7.305042,
+        "word": "于"
+      },
+      {
+        "confidence": 0.91258025,
+        "endTime": 7.8450418,
+        "startTime": 7.495042,
+        "word": "水。"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chapter": 2,
+    "title": "学习使人改变",
+    "kind": "new",
+    "text": "青出于蓝，水凝成冰。学习，也应该让我发生变化。",
+    "pause_after": 0.48,
+    "start": 33.0,
+    "end": 40.72,
+    "spoken": 7.224,
+    "words": [
+      {
+        "confidence": 0.91481704,
+        "endTime": 0.655,
+        "startTime": 0.295,
+        "word": "青"
+      },
+      {
+        "confidence": 0.97765166,
+        "endTime": 0.935,
+        "startTime": 0.655,
+        "word": "出"
+      },
+      {
+        "confidence": 0.9773487,
+        "endTime": 1.125,
+        "startTime": 0.935,
+        "word": "于"
+      },
+      {
+        "confidence": 0.89668685,
+        "endTime": 1.565,
+        "startTime": 1.125,
+        "word": "蓝，"
+      },
+      {
+        "confidence": 0.8905251,
+        "endTime": 2.415,
+        "startTime": 1.905,
+        "word": "水"
+      },
+      {
+        "confidence": 0.8304931,
+        "endTime": 2.695,
+        "startTime": 2.415,
+        "word": "凝"
+      },
+      {
+        "confidence": 0.9483198,
+        "endTime": 3.035,
+        "startTime": 2.695,
+        "word": "成"
+      },
+      {
+        "confidence": 0.87717235,
+        "endTime": 3.355,
+        "startTime": 3.035,
+        "word": "冰。"
+      },
+      {
+        "confidence": 0.7284685,
+        "endTime": 4.305042,
+        "startTime": 4.1300416,
+        "word": "学"
+      },
+      {
+        "confidence": 0.88662153,
+        "endTime": 4.805042,
+        "startTime": 4.305042,
+        "word": "习，"
+      },
+      {
+        "confidence": 0.8459898,
+        "endTime": 5.4450417,
+        "startTime": 5.2550416,
+        "word": "也"
+      },
+      {
+        "confidence": 0.85842717,
+        "endTime": 5.6050415,
+        "startTime": 5.4450417,
+        "word": "应"
+      },
+      {
+        "confidence": 0.9673337,
+        "endTime": 5.8150415,
+        "startTime": 5.6050415,
+        "word": "该"
+      },
+      {
+        "confidence": 0.963284,
+        "endTime": 5.995042,
+        "startTime": 5.8150415,
+        "word": "让"
+      },
+      {
+        "confidence": 0.92018366,
+        "endTime": 6.075042,
+        "startTime": 5.995042,
+        "word": "我"
+      },
+      {
+        "confidence": 0.9706453,
+        "endTime": 6.2550416,
+        "startTime": 6.075042,
+        "word": "发"
+      },
+      {
+        "confidence": 0.82874936,
+        "endTime": 6.3850417,
+        "startTime": 6.2550416,
+        "word": "生"
+      },
+      {
+        "confidence": 0.15250474,
+        "endTime": 6.4450417,
+        "startTime": 6.3850417,
+        "word": "变"
+      },
+      {
+        "confidence": 0.2697916,
+        "endTime": 6.5050416,
+        "startTime": 6.4450417,
+        "word": "化。"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chapter": 2,
+    "title": "学习使人改变",
+    "kind": "new",
+    "text": "我想试试：暂时不看屏幕，能不能把这句话讲清楚，再举一个自己的例子。",
+    "pause_after": 1.0,
+    "start": 40.72,
+    "end": 49.16,
+    "spoken": 7.416,
+    "words": [
+      {
+        "confidence": 0.8445929,
+        "endTime": 0.415,
+        "startTime": 0.315,
+        "word": "我"
+      },
+      {
+        "confidence": 0.97903156,
+        "endTime": 0.575,
+        "startTime": 0.415,
+        "word": "想"
+      },
+      {
+        "confidence": 0.6416684,
+        "endTime": 1.165,
+        "startTime": 0.575,
+        "word": "试"
+      },
+      {
+        "confidence": 0.32188842,
+        "endTime": 1.225,
+        "startTime": 1.195,
+        "word": "试："
+      },
+      {
+        "confidence": 0.8368709,
+        "endTime": 1.825,
+        "startTime": 1.655,
+        "word": "暂"
+      },
+      {
+        "confidence": 0.94728667,
+        "endTime": 2.045,
+        "startTime": 1.825,
+        "word": "时"
+      },
+      {
+        "confidence": 0.9422433,
+        "endTime": 2.205,
+        "startTime": 2.045,
+        "word": "不"
+      },
+      {
+        "confidence": 0.9358946,
+        "endTime": 2.425,
+        "startTime": 2.205,
+        "word": "看"
+      },
+      {
+        "confidence": 0.9444926,
+        "endTime": 2.635,
+        "startTime": 2.425,
+        "word": "屏"
+      },
+      {
+        "confidence": 0.9542953,
+        "endTime": 2.985,
+        "startTime": 2.635,
+        "word": "幕，"
+      },
+      {
+        "confidence": 0.8423076,
+        "endTime": 3.3950417,
+        "startTime": 3.2900417,
+        "word": "能"
+      },
+      {
+        "confidence": 0.8168794,
+        "endTime": 3.4650416,
+        "startTime": 3.3950417,
+        "word": "不"
+      },
+      {
+        "confidence": 0.95162106,
+        "endTime": 3.6050417,
+        "startTime": 3.4650416,
+        "word": "能"
+      },
+      {
+        "confidence": 0.89125806,
+        "endTime": 3.7550416,
+        "startTime": 3.6050417,
+        "word": "把"
+      },
+      {
+        "confidence": 0.9694302,
+        "endTime": 3.8950417,
+        "startTime": 3.7550416,
+        "word": "这"
+      },
+      {
+        "confidence": 0.91874045,
+        "endTime": 4.0250416,
+        "startTime": 3.8950417,
+        "word": "句"
+      },
+      {
+        "confidence": 0.92695624,
+        "endTime": 4.245042,
+        "startTime": 4.0250416,
+        "word": "话"
+      },
+      {
+        "confidence": 0.948649,
+        "endTime": 4.4450417,
+        "startTime": 4.245042,
+        "word": "讲"
+      },
+      {
+        "confidence": 0.8826624,
+        "endTime": 4.7350416,
+        "startTime": 4.4450417,
+        "word": "清"
+      },
+      {
+        "confidence": 0.8621925,
+        "endTime": 4.9650416,
+        "startTime": 4.7350416,
+        "word": "楚，"
+      },
+      {
+        "confidence": 0.96477664,
+        "endTime": 5.665042,
+        "startTime": 5.495042,
+        "word": "再"
+      },
+      {
+        "confidence": 0.8255591,
+        "endTime": 5.875042,
+        "startTime": 5.665042,
+        "word": "举"
+      },
+      {
+        "confidence": 0.75149965,
+        "endTime": 5.9350414,
+        "startTime": 5.875042,
+        "word": "一"
+      },
+      {
+        "confidence": 0.86118,
+        "endTime": 6.075042,
+        "startTime": 5.9350414,
+        "word": "个"
+      },
+      {
+        "confidence": 0.96565914,
+        "endTime": 6.2650414,
+        "startTime": 6.075042,
+        "word": "自"
+      },
+      {
+        "confidence": 0.5263385,
+        "endTime": 6.3450418,
+        "startTime": 6.2650414,
+        "word": "己"
+      },
+      {
+        "confidence": 0.1877577,
+        "endTime": 6.4050417,
+        "startTime": 6.3450418,
+        "word": "的"
+      },
+      {
+        "confidence": 0.15238109,
+        "endTime": 6.4650416,
+        "startTime": 6.4050417,
+        "word": "例"
+      },
+      {
+        "confidence": 0.39472649,
+        "endTime": 6.5250416,
+        "startTime": 6.4650416,
+        "word": "子。"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "chapter": 3,
+    "title": "从思考到看见",
+    "kind": "quote",
+    "text": "吾尝终日而思矣，不如须臾之所学也；吾尝跂而望矣，不如登高之博见也。",
+    "pause_after": 0.65,
+    "start": 49.16,
+    "end": 60.56,
+    "spoken": 10.728,
+    "words": [
+      {
+        "confidence": 0.68984693,
+        "endTime": 0.635,
+        "startTime": 0.445,
+        "word": "吾"
+      },
+      {
+        "confidence": 0.90762615,
+        "endTime": 1.105,
+        "startTime": 0.635,
+        "word": "尝"
+      },
+      {
+        "confidence": 0.89607763,
+        "endTime": 1.425,
+        "startTime": 1.105,
+        "word": "终"
+      },
+      {
+        "confidence": 0.8598176,
+        "endTime": 1.675,
+        "startTime": 1.425,
+        "word": "日"
+      },
+      {
+        "confidence": 0.9540707,
+        "endTime": 1.845,
+        "startTime": 1.675,
+        "word": "而"
+      },
+      {
+        "confidence": 0.85305935,
+        "endTime": 2.265,
+        "startTime": 1.845,
+        "word": "思"
+      },
+      {
+        "confidence": 0.81291294,
+        "endTime": 2.615,
+        "startTime": 2.265,
+        "word": "矣，"
+      },
+      {
+        "confidence": 0.9143675,
+        "endTime": 3.095,
+        "startTime": 2.945,
+        "word": "不"
+      },
+      {
+        "confidence": 0.97701836,
+        "endTime": 3.315,
+        "startTime": 3.095,
+        "word": "如"
+      },
+      {
+        "confidence": 0.9123097,
+        "endTime": 3.785,
+        "startTime": 3.315,
+        "word": "须"
+      },
+      {
+        "confidence": 0.9481546,
+        "endTime": 4.025,
+        "startTime": 3.785,
+        "word": "臾"
+      },
+      {
+        "confidence": 0.9013586,
+        "endTime": 4.245,
+        "startTime": 4.025,
+        "word": "之"
+      },
+      {
+        "confidence": 0.9203997,
+        "endTime": 4.515,
+        "startTime": 4.245,
+        "word": "所"
+      },
+      {
+        "confidence": 0.89589864,
+        "endTime": 4.995,
+        "startTime": 4.515,
+        "word": "学"
+      },
+      {
+        "confidence": 0.8496979,
+        "endTime": 5.275,
+        "startTime": 4.995,
+        "word": "也；"
+      },
+      {
+        "confidence": 0.83810556,
+        "endTime": 6.255042,
+        "startTime": 6.080042,
+        "word": "吾"
+      },
+      {
+        "confidence": 0.95670116,
+        "endTime": 6.6550417,
+        "startTime": 6.255042,
+        "word": "尝"
+      },
+      {
+        "confidence": 0.8289096,
+        "endTime": 6.955042,
+        "startTime": 6.6550417,
+        "word": "跂"
+      },
+      {
+        "confidence": 0.761311,
+        "endTime": 7.125042,
+        "startTime": 6.955042,
+        "word": "而"
+      },
+      {
+        "confidence": 0.9213282,
+        "endTime": 7.4850416,
+        "startTime": 7.125042,
+        "word": "望"
+      },
+      {
+        "confidence": 0.65827,
+        "endTime": 7.745042,
+        "startTime": 7.4850416,
+        "word": "矣，"
+      },
+      {
+        "confidence": 0.94206935,
+        "endTime": 8.225042,
+        "startTime": 8.085042,
+        "word": "不"
+      },
+      {
+        "confidence": 0.9776353,
+        "endTime": 8.435041,
+        "startTime": 8.225042,
+        "word": "如"
+      },
+      {
+        "confidence": 0.8876399,
+        "endTime": 8.755042,
+        "startTime": 8.435041,
+        "word": "登"
+      },
+      {
+        "confidence": 0.9547174,
+        "endTime": 9.075042,
+        "startTime": 8.755042,
+        "word": "高"
+      },
+      {
+        "confidence": 0.8953577,
+        "endTime": 9.285042,
+        "startTime": 9.075042,
+        "word": "之"
+      },
+      {
+        "confidence": 0.90996385,
+        "endTime": 9.595042,
+        "startTime": 9.285042,
+        "word": "博"
+      },
+      {
+        "confidence": 0.85909665,
+        "endTime": 10.025042,
+        "startTime": 9.595042,
+        "word": "见"
+      },
+      {
+        "confidence": 0.7709653,
+        "endTime": 10.225042,
+        "startTime": 10.025042,
+        "word": "也。"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "chapter": 3,
+    "title": "从思考到看见",
+    "kind": "quote",
+    "text": "登高而招，臂非加长也，而见者远；顺风而呼，声非加疾也，而闻者彰。",
+    "pause_after": 0.85,
+    "start": 60.56,
+    "end": 70.76,
+    "spoken": 9.336,
+    "words": [
+      {
+        "confidence": 0.870739,
+        "endTime": 0.555,
+        "startTime": 0.285,
+        "word": "登"
+      },
+      {
+        "confidence": 0.9138767,
+        "endTime": 0.825,
+        "startTime": 0.555,
+        "word": "高"
+      },
+      {
+        "confidence": 0.87525725,
+        "endTime": 0.985,
+        "startTime": 0.825,
+        "word": "而"
+      },
+      {
+        "confidence": 0.8954379,
+        "endTime": 1.395,
+        "startTime": 0.985,
+        "word": "招，"
+      },
+      {
+        "confidence": 0.88536346,
+        "endTime": 1.915,
+        "startTime": 1.595,
+        "word": "臂"
+      },
+      {
+        "confidence": 0.9441986,
+        "endTime": 2.165,
+        "startTime": 1.915,
+        "word": "非"
+      },
+      {
+        "confidence": 0.956993,
+        "endTime": 2.405,
+        "startTime": 2.165,
+        "word": "加"
+      },
+      {
+        "confidence": 0.9470974,
+        "endTime": 2.815,
+        "startTime": 2.405,
+        "word": "长"
+      },
+      {
+        "confidence": 0.80111223,
+        "endTime": 3.035,
+        "startTime": 2.815,
+        "word": "也，"
+      },
+      {
+        "confidence": 0.9654198,
+        "endTime": 3.465,
+        "startTime": 3.275,
+        "word": "而"
+      },
+      {
+        "confidence": 0.8951078,
+        "endTime": 3.735,
+        "startTime": 3.465,
+        "word": "见"
+      },
+      {
+        "confidence": 0.7408389,
+        "endTime": 3.935,
+        "startTime": 3.735,
+        "word": "者"
+      },
+      {
+        "confidence": 0.8079309,
+        "endTime": 4.175,
+        "startTime": 3.935,
+        "word": "远；"
+      },
+      {
+        "confidence": 0.57765484,
+        "endTime": 5.0250416,
+        "startTime": 4.950042,
+        "word": "顺"
+      },
+      {
+        "confidence": 0.90325695,
+        "endTime": 5.325042,
+        "startTime": 5.1150417,
+        "word": "风"
+      },
+      {
+        "confidence": 0.8937615,
+        "endTime": 5.535042,
+        "startTime": 5.325042,
+        "word": "而"
+      },
+      {
+        "confidence": 0.84786403,
+        "endTime": 5.9450417,
+        "startTime": 5.535042,
+        "word": "呼，"
+      },
+      {
+        "confidence": 0.84842885,
+        "endTime": 6.5650415,
+        "startTime": 6.165042,
+        "word": "声"
+      },
+      {
+        "confidence": 0.9718763,
+        "endTime": 6.805042,
+        "startTime": 6.5650415,
+        "word": "非"
+      },
+      {
+        "confidence": 0.95691466,
+        "endTime": 7.075042,
+        "startTime": 6.805042,
+        "word": "加"
+      },
+      {
+        "confidence": 0.8593851,
+        "endTime": 7.475042,
+        "startTime": 7.075042,
+        "word": "疾"
+      },
+      {
+        "confidence": 0.73011184,
+        "endTime": 7.6450415,
+        "startTime": 7.475042,
+        "word": "也，"
+      },
+      {
+        "confidence": 0.90567815,
+        "endTime": 8.145041,
+        "startTime": 7.915042,
+        "word": "而"
+      },
+      {
+        "confidence": 0.9337005,
+        "endTime": 8.375042,
+        "startTime": 8.175041,
+        "word": "闻"
+      },
+      {
+        "confidence": 0.88637847,
+        "endTime": 8.575042,
+        "startTime": 8.375042,
+        "word": "者"
+      },
+      {
+        "confidence": 0.9434722,
+        "endTime": 8.935041,
+        "startTime": 8.575042,
+        "word": "彰。"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "chapter": 3,
+    "title": "从思考到看见",
+    "kind": "new",
+    "text": "登高，让我看见原来看不见的地方。AI 也能帮我找资料、换个角度。",
+    "pause_after": 0.48,
+    "start": 70.76,
+    "end": 78.04,
+    "spoken": 6.768,
+    "words": [
+      {
+        "confidence": 0.88211346,
+        "endTime": 0.555,
+        "startTime": 0.305,
+        "word": "登"
+      },
+      {
+        "confidence": 0.9541142,
+        "endTime": 0.985,
+        "startTime": 0.555,
+        "word": "高，"
+      },
+      {
+        "confidence": 0.9378588,
+        "endTime": 1.525,
+        "startTime": 1.385,
+        "word": "让"
+      },
+      {
+        "confidence": 0.94676316,
+        "endTime": 1.615,
+        "startTime": 1.525,
+        "word": "我"
+      },
+      {
+        "confidence": 0.9754548,
+        "endTime": 1.845,
+        "startTime": 1.615,
+        "word": "看"
+      },
+      {
+        "confidence": 0.94203395,
+        "endTime": 2.025,
+        "startTime": 1.845,
+        "word": "见"
+      },
+      {
+        "confidence": 0.9373892,
+        "endTime": 2.155,
+        "startTime": 2.025,
+        "word": "原"
+      },
+      {
+        "confidence": 0.97670984,
+        "endTime": 2.295,
+        "startTime": 2.155,
+        "word": "来"
+      },
+      {
+        "confidence": 0.9917766,
+        "endTime": 2.525,
+        "startTime": 2.295,
+        "word": "看"
+      },
+      {
+        "confidence": 0.912045,
+        "endTime": 2.655,
+        "startTime": 2.525,
+        "word": "不"
+      },
+      {
+        "confidence": 0.982964,
+        "endTime": 2.865,
+        "startTime": 2.655,
+        "word": "见"
+      },
+      {
+        "confidence": 0.900494,
+        "endTime": 2.975,
+        "startTime": 2.865,
+        "word": "的"
+      },
+      {
+        "confidence": 0.97608334,
+        "endTime": 3.135,
+        "startTime": 2.975,
+        "word": "地"
+      },
+      {
+        "confidence": 0.9810978,
+        "endTime": 3.405,
+        "startTime": 3.135,
+        "word": "方。"
+      },
+      {
+        "confidence": 0.7697677,
+        "endTime": 4.3350415,
+        "startTime": 4.1450415,
+        "word": "AI"
+      },
+      {
+        "confidence": 0.7844258,
+        "endTime": 4.4350414,
+        "startTime": 4.3350415,
+        "word": "也"
+      },
+      {
+        "confidence": 0.9685061,
+        "endTime": 4.5850415,
+        "startTime": 4.4350414,
+        "word": "能"
+      },
+      {
+        "confidence": 0.9597099,
+        "endTime": 4.7050414,
+        "startTime": 4.5850415,
+        "word": "帮"
+      },
+      {
+        "confidence": 0.97731227,
+        "endTime": 4.8550415,
+        "startTime": 4.7050414,
+        "word": "我"
+      },
+      {
+        "confidence": 0.9690337,
+        "endTime": 5.0550413,
+        "startTime": 4.8550415,
+        "word": "找"
+      },
+      {
+        "confidence": 0.6419232,
+        "endTime": 5.3050413,
+        "startTime": 5.0550413,
+        "word": "资"
+      },
+      {
+        "confidence": 0.4235138,
+        "endTime": 5.4050417,
+        "startTime": 5.3050413,
+        "word": "料、"
+      },
+      {
+        "confidence": 0.92278534,
+        "endTime": 6.0050416,
+        "startTime": 5.7750416,
+        "word": "换"
+      },
+      {
+        "confidence": 0.89955324,
+        "endTime": 6.0850415,
+        "startTime": 6.0050416,
+        "word": "个"
+      },
+      {
+        "confidence": 0.94194937,
+        "endTime": 6.2550416,
+        "startTime": 6.0850415,
+        "word": "角"
+      },
+      {
+        "confidence": 0.39982668,
+        "endTime": 6.3150415,
+        "startTime": 6.2550416,
+        "word": "度。"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "chapter": 3,
+    "title": "从思考到看见",
+    "kind": "new",
+    "text": "省下来的时间，我可以用来读原文、比较解释，把没想通的地方接着想。",
+    "pause_after": 1.0,
+    "start": 78.04,
+    "end": 85.6,
+    "spoken": 6.552,
+    "words": [
+      {
+        "confidence": 0.81008834,
+        "endTime": 0.465,
+        "startTime": 0.245,
+        "word": "省"
+      },
+      {
+        "confidence": 0.9426933,
+        "endTime": 0.625,
+        "startTime": 0.465,
+        "word": "下"
+      },
+      {
+        "confidence": 0.9771439,
+        "endTime": 0.755,
+        "startTime": 0.625,
+        "word": "来"
+      },
+      {
+        "confidence": 0.9550432,
+        "endTime": 0.845,
+        "startTime": 0.755,
+        "word": "的"
+      },
+      {
+        "confidence": 0.9233357,
+        "endTime": 1.045,
+        "startTime": 0.845,
+        "word": "时"
+      },
+      {
+        "confidence": 0.98110014,
+        "endTime": 1.385,
+        "startTime": 1.045,
+        "word": "间，"
+      },
+      {
+        "confidence": 0.91869336,
+        "endTime": 1.805,
+        "startTime": 1.665,
+        "word": "我"
+      },
+      {
+        "confidence": 0.7929383,
+        "endTime": 1.955,
+        "startTime": 1.805,
+        "word": "可"
+      },
+      {
+        "confidence": 0.77042747,
+        "endTime": 2.045,
+        "startTime": 1.955,
+        "word": "以"
+      },
+      {
+        "confidence": 0.9582869,
+        "endTime": 2.215,
+        "startTime": 2.045,
+        "word": "用"
+      },
+      {
+        "confidence": 0.9374607,
+        "endTime": 2.515,
+        "startTime": 2.215,
+        "word": "来"
+      },
+      {
+        "confidence": 0.91896755,
+        "endTime": 2.735,
+        "startTime": 2.515,
+        "word": "读"
+      },
+      {
+        "confidence": 0.75539786,
+        "endTime": 2.925,
+        "startTime": 2.735,
+        "word": "原"
+      },
+      {
+        "confidence": 0.1605477,
+        "endTime": 3.245,
+        "startTime": 3.215,
+        "word": "文、"
+      },
+      {
+        "confidence": 0.95059204,
+        "endTime": 3.595,
+        "startTime": 3.475,
+        "word": "比"
+      },
+      {
+        "confidence": 0.98223245,
+        "endTime": 3.755,
+        "startTime": 3.595,
+        "word": "较"
+      },
+      {
+        "confidence": 0.9356354,
+        "endTime": 3.975,
+        "startTime": 3.755,
+        "word": "解"
+      },
+      {
+        "confidence": 0.9789185,
+        "endTime": 4.355,
+        "startTime": 3.975,
+        "word": "释，"
+      },
+      {
+        "confidence": 0.8594649,
+        "endTime": 4.825,
+        "startTime": 4.705,
+        "word": "把"
+      },
+      {
+        "confidence": 0.9151138,
+        "endTime": 4.935,
+        "startTime": 4.825,
+        "word": "没"
+      },
+      {
+        "confidence": 0.9352835,
+        "endTime": 5.115,
+        "startTime": 4.935,
+        "word": "想"
+      },
+      {
+        "confidence": 0.97534674,
+        "endTime": 5.305,
+        "startTime": 5.115,
+        "word": "通"
+      },
+      {
+        "confidence": 0.9597982,
+        "endTime": 5.405,
+        "startTime": 5.305,
+        "word": "的"
+      },
+      {
+        "confidence": 0.9661106,
+        "endTime": 5.555,
+        "startTime": 5.405,
+        "word": "地"
+      },
+      {
+        "confidence": 0.96472716,
+        "endTime": 5.765,
+        "startTime": 5.555,
+        "word": "方"
+      },
+      {
+        "confidence": 0.8792549,
+        "endTime": 5.985,
+        "startTime": 5.765,
+        "word": "接"
+      },
+      {
+        "confidence": 0.96400374,
+        "endTime": 6.085,
+        "startTime": 5.985,
+        "word": "着"
+      },
+      {
+        "confidence": 0.8886344,
+        "endTime": 6.335,
+        "startTime": 6.085,
+        "word": "想。"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "chapter": 4,
+    "title": "舟楫渡河",
+    "kind": "quote",
+    "text": "假舆马者，非利足也，而致千里；假舟楫者，非能水也，而绝江河。",
+    "pause_after": 0.65,
+    "start": 85.6,
+    "end": 95.88,
+    "spoken": 9.6,
+    "words": [
+      {
+        "confidence": 0.81935227,
+        "endTime": 0.575,
+        "startTime": 0.245,
+        "word": "假"
+      },
+      {
+        "confidence": 0.925856,
+        "endTime": 0.815,
+        "startTime": 0.575,
+        "word": "舆"
+      },
+      {
+        "confidence": 0.86915535,
+        "endTime": 1.135,
+        "startTime": 0.815,
+        "word": "马"
+      },
+      {
+        "confidence": 0.88736516,
+        "endTime": 1.515,
+        "startTime": 1.135,
+        "word": "者，"
+      },
+      {
+        "confidence": 0.8518278,
+        "endTime": 2.105,
+        "startTime": 1.875,
+        "word": "非"
+      },
+      {
+        "confidence": 0.9529284,
+        "endTime": 2.335,
+        "startTime": 2.105,
+        "word": "利"
+      },
+      {
+        "confidence": 0.9049628,
+        "endTime": 2.715,
+        "startTime": 2.335,
+        "word": "足"
+      },
+      {
+        "confidence": 0.86911875,
+        "endTime": 2.985,
+        "startTime": 2.715,
+        "word": "也，"
+      },
+      {
+        "confidence": 0.85417163,
+        "endTime": 3.495,
+        "startTime": 3.295,
+        "word": "而"
+      },
+      {
+        "confidence": 0.905785,
+        "endTime": 3.745,
+        "startTime": 3.495,
+        "word": "致"
+      },
+      {
+        "confidence": 0.8832225,
+        "endTime": 4.235,
+        "startTime": 3.745,
+        "word": "千"
+      },
+      {
+        "confidence": 0.97116923,
+        "endTime": 4.515,
+        "startTime": 4.235,
+        "word": "里；"
+      },
+      {
+        "confidence": 0.44889012,
+        "endTime": 5.1750417,
+        "startTime": 5.100042,
+        "word": "假"
+      },
+      {
+        "confidence": 0.920956,
+        "endTime": 5.465042,
+        "startTime": 5.235042,
+        "word": "舟"
+      },
+      {
+        "confidence": 0.92466074,
+        "endTime": 5.805042,
+        "startTime": 5.465042,
+        "word": "楫"
+      },
+      {
+        "confidence": 0.92278504,
+        "endTime": 6.125042,
+        "startTime": 5.805042,
+        "word": "者，"
+      },
+      {
+        "confidence": 0.907745,
+        "endTime": 6.725042,
+        "startTime": 6.4450417,
+        "word": "非"
+      },
+      {
+        "confidence": 0.9705027,
+        "endTime": 6.895042,
+        "startTime": 6.725042,
+        "word": "能"
+      },
+      {
+        "confidence": 0.90282506,
+        "endTime": 7.425042,
+        "startTime": 6.895042,
+        "word": "水"
+      },
+      {
+        "confidence": 0.79250854,
+        "endTime": 7.605042,
+        "startTime": 7.425042,
+        "word": "也，"
+      },
+      {
+        "confidence": 0.92783916,
+        "endTime": 8.195042,
+        "startTime": 7.955042,
+        "word": "而"
+      },
+      {
+        "confidence": 0.8299214,
+        "endTime": 8.455042,
+        "startTime": 8.195042,
+        "word": "绝"
+      },
+      {
+        "confidence": 0.896699,
+        "endTime": 8.825042,
+        "startTime": 8.455042,
+        "word": "江"
+      },
+      {
+        "confidence": 0.97507167,
+        "endTime": 9.395042,
+        "startTime": 8.825042,
+        "word": "河。"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "chapter": 4,
+    "title": "舟楫渡河",
+    "kind": "quote",
+    "text": "君子生非异也，善假于物也。",
+    "pause_after": 0.85,
+    "start": 95.88,
+    "end": 101.92,
+    "spoken": 5.16,
+    "words": [
+      {
+        "confidence": 0.6962744,
+        "endTime": 0.665,
+        "startTime": 0.295,
+        "word": "君"
+      },
+      {
+        "confidence": 0.86350965,
+        "endTime": 1.095,
+        "startTime": 0.665,
+        "word": "子"
+      },
+      {
+        "confidence": 0.21334845,
+        "endTime": 1.405,
+        "startTime": 1.345,
+        "word": "生"
+      },
+      {
+        "confidence": 0.8483814,
+        "endTime": 1.895,
+        "startTime": 1.515,
+        "word": "非"
+      },
+      {
+        "confidence": 0.8201885,
+        "endTime": 2.325,
+        "startTime": 1.895,
+        "word": "异"
+      },
+      {
+        "confidence": 0.71606815,
+        "endTime": 2.435,
+        "startTime": 2.355,
+        "word": "也，"
+      },
+      {
+        "confidence": 0.86804587,
+        "endTime": 3.335,
+        "startTime": 2.775,
+        "word": "善"
+      },
+      {
+        "confidence": 0.8427588,
+        "endTime": 3.775,
+        "startTime": 3.335,
+        "word": "假"
+      },
+      {
+        "confidence": 0.94468504,
+        "endTime": 4.015,
+        "startTime": 3.775,
+        "word": "于"
+      },
+      {
+        "confidence": 0.8742991,
+        "endTime": 4.415,
+        "startTime": 4.015,
+        "word": "物"
+      },
+      {
+        "confidence": 0.77083224,
+        "endTime": 4.715,
+        "startTime": 4.415,
+        "word": "也。"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "chapter": 4,
+    "title": "舟楫渡河",
+    "kind": "new",
+    "text": "舟能帮我渡河，可桨怎样划，还得看水流。",
+    "pause_after": 0.48,
+    "start": 101.92,
+    "end": 107.48,
+    "spoken": 5.064,
+    "words": [
+      {
+        "confidence": 0.8541956,
+        "endTime": 0.515,
+        "startTime": 0.275,
+        "word": "舟"
+      },
+      {
+        "confidence": 0.97574484,
+        "endTime": 0.655,
+        "startTime": 0.515,
+        "word": "能"
+      },
+      {
+        "confidence": 0.9480866,
+        "endTime": 0.805,
+        "startTime": 0.655,
+        "word": "帮"
+      },
+      {
+        "confidence": 0.9626409,
+        "endTime": 0.985,
+        "startTime": 0.805,
+        "word": "我"
+      },
+      {
+        "confidence": 0.8806385,
+        "endTime": 1.195,
+        "startTime": 0.985,
+        "word": "渡"
+      },
+      {
+        "confidence": 0.96727675,
+        "endTime": 1.705,
+        "startTime": 1.195,
+        "word": "河，"
+      },
+      {
+        "confidence": 0.9384209,
+        "endTime": 2.255,
+        "startTime": 2.075,
+        "word": "可"
+      },
+      {
+        "confidence": 0.88488543,
+        "endTime": 2.525,
+        "startTime": 2.255,
+        "word": "桨"
+      },
+      {
+        "confidence": 0.9043133,
+        "endTime": 2.735,
+        "startTime": 2.525,
+        "word": "怎"
+      },
+      {
+        "confidence": 0.92406416,
+        "endTime": 2.865,
+        "startTime": 2.735,
+        "word": "样"
+      },
+      {
+        "confidence": 0.9136963,
+        "endTime": 3.335,
+        "startTime": 2.865,
+        "word": "划，"
+      },
+      {
+        "confidence": 0.9482033,
+        "endTime": 3.925,
+        "startTime": 3.745,
+        "word": "还"
+      },
+      {
+        "confidence": 0.91154563,
+        "endTime": 4.025,
+        "startTime": 3.925,
+        "word": "得"
+      },
+      {
+        "confidence": 0.88311654,
+        "endTime": 4.195,
+        "startTime": 4.025,
+        "word": "看"
+      },
+      {
+        "confidence": 0.9507303,
+        "endTime": 4.465,
+        "startTime": 4.195,
+        "word": "水"
+      },
+      {
+        "confidence": 0.9727772,
+        "endTime": 4.815,
+        "startTime": 4.465,
+        "word": "流。"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "chapter": 4,
+    "title": "舟楫渡河",
+    "kind": "new",
+    "text": "看一看，调一调，才能朝想去的地方走。原来，用好工具，本身也需要学习。",
+    "pause_after": 1.0,
+    "start": 107.48,
+    "end": 115.76,
+    "spoken": 7.248,
+    "words": [
+      {
+        "confidence": 0.92600167,
+        "endTime": 0.445,
+        "startTime": 0.225,
+        "word": "看"
+      },
+      {
+        "confidence": 0.7086985,
+        "endTime": 0.475,
+        "startTime": 0.445,
+        "word": "一"
+      },
+      {
+        "confidence": 0.8955747,
+        "endTime": 0.815,
+        "startTime": 0.475,
+        "word": "看，"
+      },
+      {
+        "confidence": 0.95432687,
+        "endTime": 1.085,
+        "startTime": 0.855,
+        "word": "调"
+      },
+      {
+        "confidence": 0.91747445,
+        "endTime": 1.195,
+        "startTime": 1.085,
+        "word": "一"
+      },
+      {
+        "confidence": 0.96259314,
+        "endTime": 1.585,
+        "startTime": 1.195,
+        "word": "调，"
+      },
+      {
+        "confidence": 0.9383964,
+        "endTime": 2.015,
+        "startTime": 1.825,
+        "word": "才"
+      },
+      {
+        "confidence": 0.9830772,
+        "endTime": 2.145,
+        "startTime": 2.015,
+        "word": "能"
+      },
+      {
+        "confidence": 0.8939547,
+        "endTime": 2.345,
+        "startTime": 2.145,
+        "word": "朝"
+      },
+      {
+        "confidence": 0.9500461,
+        "endTime": 2.615,
+        "startTime": 2.345,
+        "word": "想"
+      },
+      {
+        "confidence": 0.93701285,
+        "endTime": 2.825,
+        "startTime": 2.615,
+        "word": "去"
+      },
+      {
+        "confidence": 0.87642765,
+        "endTime": 2.925,
+        "startTime": 2.825,
+        "word": "的"
+      },
+      {
+        "confidence": 0.9656384,
+        "endTime": 3.045,
+        "startTime": 2.925,
+        "word": "地"
+      },
+      {
+        "confidence": 0.96236175,
+        "endTime": 3.215,
+        "startTime": 3.045,
+        "word": "方"
+      },
+      {
+        "confidence": 0.91433936,
+        "endTime": 3.495,
+        "startTime": 3.215,
+        "word": "走。"
+      },
+      {
+        "confidence": 0.9481083,
+        "endTime": 4.2450414,
+        "startTime": 4.1150413,
+        "word": "原"
+      },
+      {
+        "confidence": 0.9464827,
+        "endTime": 4.5750413,
+        "startTime": 4.2450414,
+        "word": "来，"
+      },
+      {
+        "confidence": 0.9138122,
+        "endTime": 4.7450414,
+        "startTime": 4.6150417,
+        "word": "用"
+      },
+      {
+        "confidence": 0.9507991,
+        "endTime": 4.9550414,
+        "startTime": 4.7450414,
+        "word": "好"
+      },
+      {
+        "confidence": 0.96024543,
+        "endTime": 5.1550417,
+        "startTime": 4.9550414,
+        "word": "工"
+      },
+      {
+        "confidence": 0.97774076,
+        "endTime": 5.4450417,
+        "startTime": 5.1550417,
+        "word": "具，"
+      },
+      {
+        "confidence": 0.96077454,
+        "endTime": 5.8650417,
+        "startTime": 5.7050414,
+        "word": "本"
+      },
+      {
+        "confidence": 0.9224465,
+        "endTime": 6.1050415,
+        "startTime": 5.8650417,
+        "word": "身"
+      },
+      {
+        "confidence": 0.9512406,
+        "endTime": 6.2250414,
+        "startTime": 6.1050415,
+        "word": "也"
+      },
+      {
+        "confidence": 0.19386125,
+        "endTime": 6.285042,
+        "startTime": 6.2250414,
+        "word": "需"
+      },
+      {
+        "confidence": 0.12053698,
+        "endTime": 6.3150415,
+        "startTime": 6.285042,
+        "word": "要"
+      },
+      {
+        "confidence": 0.39942244,
+        "endTime": 6.3750415,
+        "startTime": 6.3150415,
+        "word": "学"
+      },
+      {
+        "confidence": 0.2961517,
+        "endTime": 6.4350414,
+        "startTime": 6.3750415,
+        "word": "习。"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "chapter": 5,
+    "title": "积累与判断",
+    "kind": "quote",
+    "text": "积土成山，风雨兴焉；积水成渊，蛟龙生焉。",
+    "pause_after": 0.65,
+    "start": 115.76,
+    "end": 123.72,
+    "spoken": 7.296,
+    "words": [
+      {
+        "confidence": 0.8256257,
+        "endTime": 0.665,
+        "startTime": 0.275,
+        "word": "积"
+      },
+      {
+        "confidence": 0.9649349,
+        "endTime": 0.995,
+        "startTime": 0.665,
+        "word": "土"
+      },
+      {
+        "confidence": 0.89590687,
+        "endTime": 1.345,
+        "startTime": 0.995,
+        "word": "成"
+      },
+      {
+        "confidence": 0.93410504,
+        "endTime": 1.855,
+        "startTime": 1.345,
+        "word": "山，"
+      },
+      {
+        "confidence": 0.8776744,
+        "endTime": 2.415,
+        "startTime": 2.025,
+        "word": "风"
+      },
+      {
+        "confidence": 0.963578,
+        "endTime": 2.615,
+        "startTime": 2.415,
+        "word": "雨"
+      },
+      {
+        "confidence": 0.8553597,
+        "endTime": 3.055,
+        "startTime": 2.615,
+        "word": "兴"
+      },
+      {
+        "confidence": 0.8885759,
+        "endTime": 3.405,
+        "startTime": 3.055,
+        "word": "焉；"
+      },
+      {
+        "confidence": 0.62207633,
+        "endTime": 4.2450414,
+        "startTime": 4.1700416,
+        "word": "积"
+      },
+      {
+        "confidence": 0.9082895,
+        "endTime": 4.535042,
+        "startTime": 4.2450414,
+        "word": "水"
+      },
+      {
+        "confidence": 0.87065136,
+        "endTime": 4.9650416,
+        "startTime": 4.535042,
+        "word": "成"
+      },
+      {
+        "confidence": 0.8200046,
+        "endTime": 5.2150416,
+        "startTime": 4.9650416,
+        "word": "渊，"
+      },
+      {
+        "confidence": 0.9234509,
+        "endTime": 5.9050417,
+        "startTime": 5.5150414,
+        "word": "蛟"
+      },
+      {
+        "confidence": 0.9194858,
+        "endTime": 6.1450415,
+        "startTime": 5.9050417,
+        "word": "龙"
+      },
+      {
+        "confidence": 0.8414596,
+        "endTime": 6.6150417,
+        "startTime": 6.1450415,
+        "word": "生"
+      },
+      {
+        "confidence": 0.662306,
+        "endTime": 6.8950415,
+        "startTime": 6.6150417,
+        "word": "焉。"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "chapter": 5,
+    "title": "积累与判断",
+    "kind": "quote",
+    "text": "故不积跬步，无以至千里；不积小流，无以成江海。",
+    "pause_after": 0.85,
+    "start": 123.72,
+    "end": 131.16,
+    "spoken": 6.552,
+    "words": [
+      {
+        "confidence": 0.7615173,
+        "endTime": 0.725,
+        "startTime": 0.305,
+        "word": "故"
+      },
+      {
+        "confidence": 0.7764088,
+        "endTime": 0.905,
+        "startTime": 0.805,
+        "word": "不"
+      },
+      {
+        "confidence": 0.8392427,
+        "endTime": 1.115,
+        "startTime": 0.905,
+        "word": "积"
+      },
+      {
+        "confidence": 0.7516672,
+        "endTime": 1.425,
+        "startTime": 1.115,
+        "word": "跬"
+      },
+      {
+        "confidence": 0.92672795,
+        "endTime": 1.875,
+        "startTime": 1.425,
+        "word": "步，"
+      },
+      {
+        "confidence": 0.7350048,
+        "endTime": 2.175,
+        "startTime": 2.045,
+        "word": "无"
+      },
+      {
+        "confidence": 0.82349706,
+        "endTime": 2.305,
+        "startTime": 2.175,
+        "word": "以"
+      },
+      {
+        "confidence": 0.83525765,
+        "endTime": 2.485,
+        "startTime": 2.305,
+        "word": "至"
+      },
+      {
+        "confidence": 0.90897965,
+        "endTime": 2.925,
+        "startTime": 2.485,
+        "word": "千"
+      },
+      {
+        "confidence": 0.97318226,
+        "endTime": 3.145,
+        "startTime": 2.925,
+        "word": "里；"
+      },
+      {
+        "confidence": 0.7655632,
+        "endTime": 3.7850418,
+        "startTime": 3.7100418,
+        "word": "不"
+      },
+      {
+        "confidence": 0.84229475,
+        "endTime": 3.9250417,
+        "startTime": 3.7850418,
+        "word": "积"
+      },
+      {
+        "confidence": 0.9110045,
+        "endTime": 4.265042,
+        "startTime": 3.9250417,
+        "word": "小"
+      },
+      {
+        "confidence": 0.9548984,
+        "endTime": 4.705042,
+        "startTime": 4.265042,
+        "word": "流，"
+      },
+      {
+        "confidence": 0.81178886,
+        "endTime": 5.0950418,
+        "startTime": 4.935042,
+        "word": "无"
+      },
+      {
+        "confidence": 0.65572816,
+        "endTime": 5.225042,
+        "startTime": 5.0950418,
+        "word": "以"
+      },
+      {
+        "confidence": 0.95959055,
+        "endTime": 5.5250416,
+        "startTime": 5.225042,
+        "word": "成"
+      },
+      {
+        "confidence": 0.8889749,
+        "endTime": 5.805042,
+        "startTime": 5.5250416,
+        "word": "江"
+      },
+      {
+        "confidence": 0.8874319,
+        "endTime": 6.165042,
+        "startTime": 5.805042,
+        "word": "海。"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "chapter": 5,
+    "title": "积累与判断",
+    "kind": "new",
+    "text": "我在纸上写下：“借助工具，能让人做到更多。”",
+    "pause_after": 0.48,
+    "start": 131.16,
+    "end": 136.28,
+    "spoken": 4.632,
+    "words": [
+      {
+        "confidence": 0.9397561,
+        "endTime": 0.405,
+        "startTime": 0.255,
+        "word": "我"
+      },
+      {
+        "confidence": 0.971002,
+        "endTime": 0.565,
+        "startTime": 0.405,
+        "word": "在"
+      },
+      {
+        "confidence": 0.9641573,
+        "endTime": 0.705,
+        "startTime": 0.565,
+        "word": "纸"
+      },
+      {
+        "confidence": 0.9642653,
+        "endTime": 0.875,
+        "startTime": 0.705,
+        "word": "上"
+      },
+      {
+        "confidence": 0.84640485,
+        "endTime": 1.085,
+        "startTime": 0.875,
+        "word": "写"
+      },
+      {
+        "confidence": 0.34111536,
+        "endTime": 1.285,
+        "startTime": 1.245,
+        "word": "下：“"
+      },
+      {
+        "confidence": 0.93019855,
+        "endTime": 1.975,
+        "startTime": 1.755,
+        "word": "借"
+      },
+      {
+        "confidence": 0.94513726,
+        "endTime": 2.145,
+        "startTime": 1.975,
+        "word": "助"
+      },
+      {
+        "confidence": 0.957365,
+        "endTime": 2.395,
+        "startTime": 2.145,
+        "word": "工"
+      },
+      {
+        "confidence": 0.9801481,
+        "endTime": 2.755,
+        "startTime": 2.395,
+        "word": "具，"
+      },
+      {
+        "confidence": 0.9418918,
+        "endTime": 3.055,
+        "startTime": 2.915,
+        "word": "能"
+      },
+      {
+        "confidence": 0.9604951,
+        "endTime": 3.215,
+        "startTime": 3.055,
+        "word": "让"
+      },
+      {
+        "confidence": 0.9495395,
+        "endTime": 3.405,
+        "startTime": 3.215,
+        "word": "人"
+      },
+      {
+        "confidence": 0.9803418,
+        "endTime": 3.585,
+        "startTime": 3.405,
+        "word": "做"
+      },
+      {
+        "confidence": 0.95023173,
+        "endTime": 3.745,
+        "startTime": 3.585,
+        "word": "到"
+      },
+      {
+        "confidence": 0.9348938,
+        "endTime": 3.985,
+        "startTime": 3.745,
+        "word": "更"
+      },
+      {
+        "confidence": 0.23507287,
+        "endTime": 4.015,
+        "startTime": 3.985,
+        "word": "多。”"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "chapter": 5,
+    "title": "积累与判断",
+    "kind": "new",
+    "text": "又添上一句：“借助工具，也要把原来不会的东西学会。”",
+    "pause_after": 0.48,
+    "start": 136.28,
+    "end": 141.84,
+    "spoken": 5.064,
+    "words": [
+      {
+        "confidence": 0.9206658,
+        "endTime": 0.505,
+        "startTime": 0.335,
+        "word": "又"
+      },
+      {
+        "confidence": 0.94296145,
+        "endTime": 0.695,
+        "startTime": 0.505,
+        "word": "添"
+      },
+      {
+        "confidence": 0.9648733,
+        "endTime": 0.885,
+        "startTime": 0.695,
+        "word": "上"
+      },
+      {
+        "confidence": 0.7513187,
+        "endTime": 1.045,
+        "startTime": 0.885,
+        "word": "一"
+      },
+      {
+        "confidence": 0.13770393,
+        "endTime": 1.205,
+        "startTime": 1.175,
+        "word": "句：“"
+      },
+      {
+        "confidence": 0.95288324,
+        "endTime": 1.985,
+        "startTime": 1.795,
+        "word": "借"
+      },
+      {
+        "confidence": 0.96213984,
+        "endTime": 2.125,
+        "startTime": 1.985,
+        "word": "助"
+      },
+      {
+        "confidence": 0.9642104,
+        "endTime": 2.345,
+        "startTime": 2.125,
+        "word": "工"
+      },
+      {
+        "confidence": 0.894364,
+        "endTime": 2.655,
+        "startTime": 2.345,
+        "word": "具，"
+      },
+      {
+        "confidence": 0.88419265,
+        "endTime": 2.975,
+        "startTime": 2.805,
+        "word": "也"
+      },
+      {
+        "confidence": 0.8593162,
+        "endTime": 3.065,
+        "startTime": 2.975,
+        "word": "要"
+      },
+      {
+        "confidence": 0.8395708,
+        "endTime": 3.235,
+        "startTime": 3.065,
+        "word": "把"
+      },
+      {
+        "confidence": 0.9368715,
+        "endTime": 3.375,
+        "startTime": 3.235,
+        "word": "原"
+      },
+      {
+        "confidence": 0.9403031,
+        "endTime": 3.575,
+        "startTime": 3.375,
+        "word": "来"
+      },
+      {
+        "confidence": 0.8952309,
+        "endTime": 3.695,
+        "startTime": 3.575,
+        "word": "不"
+      },
+      {
+        "confidence": 0.95891255,
+        "endTime": 3.895,
+        "startTime": 3.695,
+        "word": "会"
+      },
+      {
+        "confidence": 0.9766976,
+        "endTime": 3.995,
+        "startTime": 3.895,
+        "word": "的"
+      },
+      {
+        "confidence": 0.98713106,
+        "endTime": 4.155,
+        "startTime": 3.995,
+        "word": "东"
+      },
+      {
+        "confidence": 0.7562425,
+        "endTime": 4.315,
+        "startTime": 4.155,
+        "word": "西"
+      },
+      {
+        "confidence": 0.85537684,
+        "endTime": 4.505,
+        "startTime": 4.315,
+        "word": "学"
+      },
+      {
+        "confidence": 0.49966902,
+        "endTime": 4.535,
+        "startTime": 4.505,
+        "word": "会。”"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "chapter": 5,
+    "title": "积累与判断",
+    "kind": "new",
+    "text": "写到这里，我对“学不可以已”，有了新的理解。",
+    "pause_after": 1.0,
+    "start": 141.84,
+    "end": 147.48,
+    "spoken": 4.632,
+    "words": [
+      {
+        "confidence": 0.76910585,
+        "endTime": 0.385,
+        "startTime": 0.205,
+        "word": "写"
+      },
+      {
+        "confidence": 0.85426235,
+        "endTime": 0.515,
+        "startTime": 0.385,
+        "word": "到"
+      },
+      {
+        "confidence": 0.9674083,
+        "endTime": 0.715,
+        "startTime": 0.515,
+        "word": "这"
+      },
+      {
+        "confidence": 0.9546694,
+        "endTime": 1.085,
+        "startTime": 0.715,
+        "word": "里，"
+      },
+      {
+        "confidence": 0.8278816,
+        "endTime": 1.395,
+        "startTime": 1.285,
+        "word": "我"
+      },
+      {
+        "confidence": 0.20537794,
+        "endTime": 1.425,
+        "startTime": 1.395,
+        "word": "对“"
+      },
+      {
+        "confidence": 0.7893336,
+        "endTime": 2.135,
+        "startTime": 1.805,
+        "word": "学"
+      },
+      {
+        "confidence": 0.932882,
+        "endTime": 2.295,
+        "startTime": 2.135,
+        "word": "不"
+      },
+      {
+        "confidence": 0.8399883,
+        "endTime": 2.515,
+        "startTime": 2.295,
+        "word": "可"
+      },
+      {
+        "confidence": 0.7551976,
+        "endTime": 3.025,
+        "startTime": 2.515,
+        "word": "以"
+      },
+      {
+        "confidence": 0.4796866,
+        "endTime": 3.475,
+        "startTime": 3.445,
+        "word": "已”，"
+      },
+      {
+        "confidence": 0.38024879,
+        "endTime": 3.505,
+        "startTime": 3.475,
+        "word": "有"
+      },
+      {
+        "confidence": 0.8680587,
+        "endTime": 3.595,
+        "startTime": 3.505,
+        "word": "了"
+      },
+      {
+        "confidence": 0.9326792,
+        "endTime": 3.855,
+        "startTime": 3.595,
+        "word": "新"
+      },
+      {
+        "confidence": 0.9769454,
+        "endTime": 3.995,
+        "startTime": 3.855,
+        "word": "的"
+      },
+      {
+        "confidence": 0.85260445,
+        "endTime": 4.175,
+        "startTime": 3.995,
+        "word": "理"
+      },
+      {
+        "confidence": 0.7445313,
+        "endTime": 4.275,
+        "startTime": 4.175,
+        "word": "解。"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "chapter": 6,
+    "title": "回到当下",
+    "kind": "new",
+    "text": "我又读了一遍：“君子生非异也，善假于物也。”",
+    "pause_after": 0.75,
+    "start": 147.48,
+    "end": 153.88,
+    "spoken": 5.616,
+    "words": [
+      {
+        "confidence": 0.84330004,
+        "endTime": 0.415,
+        "startTime": 0.255,
+        "word": "我"
+      },
+      {
+        "confidence": 0.8672996,
+        "endTime": 0.595,
+        "startTime": 0.415,
+        "word": "又"
+      },
+      {
+        "confidence": 0.9518234,
+        "endTime": 0.815,
+        "startTime": 0.595,
+        "word": "读"
+      },
+      {
+        "confidence": 0.9253453,
+        "endTime": 0.925,
+        "startTime": 0.815,
+        "word": "了"
+      },
+      {
+        "confidence": 0.70975393,
+        "endTime": 1.055,
+        "startTime": 0.925,
+        "word": "一"
+      },
+      {
+        "confidence": 0.14257464,
+        "endTime": 1.245,
+        "startTime": 1.215,
+        "word": "遍：“"
+      },
+      {
+        "confidence": 0.7860994,
+        "endTime": 2.265,
+        "startTime": 1.915,
+        "word": "君"
+      },
+      {
+        "confidence": 0.8762872,
+        "endTime": 2.545,
+        "startTime": 2.265,
+        "word": "子"
+      },
+      {
+        "confidence": 0.3587731,
+        "endTime": 2.805,
+        "startTime": 2.545,
+        "word": "生"
+      },
+      {
+        "confidence": 0.89288414,
+        "endTime": 3.155,
+        "startTime": 2.905,
+        "word": "非"
+      },
+      {
+        "confidence": 0.85943085,
+        "endTime": 3.425,
+        "startTime": 3.155,
+        "word": "异"
+      },
+      {
+        "confidence": 0.68732023,
+        "endTime": 3.635,
+        "startTime": 3.455,
+        "word": "也，"
+      },
+      {
+        "confidence": 0.9147986,
+        "endTime": 4.395,
+        "startTime": 3.975,
+        "word": "善"
+      },
+      {
+        "confidence": 0.90406626,
+        "endTime": 4.685,
+        "startTime": 4.395,
+        "word": "假"
+      },
+      {
+        "confidence": 0.81892264,
+        "endTime": 4.885,
+        "startTime": 4.685,
+        "word": "于"
+      },
+      {
+        "confidence": 0.852086,
+        "endTime": 5.135,
+        "startTime": 4.885,
+        "word": "物"
+      },
+      {
+        "confidence": 0.24195985,
+        "endTime": 5.165,
+        "startTime": 5.135,
+        "word": "也。”"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "chapter": 6,
+    "title": "回到当下",
+    "kind": "new",
+    "text": "这句话让我想到：一个普通的人，也能通过学习、借助外物，做到从前做不到的事。",
+    "pause_after": 0.75,
+    "start": 153.88,
+    "end": 163.4,
+    "spoken": 8.736,
+    "words": [
+      {
+        "confidence": 0.8962225,
+        "endTime": 0.445,
+        "startTime": 0.225,
+        "word": "这"
+      },
+      {
+        "confidence": 0.83347094,
+        "endTime": 0.555,
+        "startTime": 0.445,
+        "word": "句"
+      },
+      {
+        "confidence": 0.9082828,
+        "endTime": 0.785,
+        "startTime": 0.555,
+        "word": "话"
+      },
+      {
+        "confidence": 0.9323797,
+        "endTime": 0.925,
+        "startTime": 0.785,
+        "word": "让"
+      },
+      {
+        "confidence": 0.9705458,
+        "endTime": 1.025,
+        "startTime": 0.925,
+        "word": "我"
+      },
+      {
+        "confidence": 0.8712797,
+        "endTime": 1.345,
+        "startTime": 1.025,
+        "word": "想"
+      },
+      {
+        "confidence": 0.2330248,
+        "endTime": 1.595,
+        "startTime": 1.565,
+        "word": "到："
+      },
+      {
+        "confidence": 0.9435053,
+        "endTime": 2.255,
+        "startTime": 2.155,
+        "word": "一"
+      },
+      {
+        "confidence": 0.9309363,
+        "endTime": 2.385,
+        "startTime": 2.255,
+        "word": "个"
+      },
+      {
+        "confidence": 0.9693633,
+        "endTime": 2.655,
+        "startTime": 2.385,
+        "word": "普"
+      },
+      {
+        "confidence": 0.9707793,
+        "endTime": 2.865,
+        "startTime": 2.655,
+        "word": "通"
+      },
+      {
+        "confidence": 0.9720407,
+        "endTime": 2.995,
+        "startTime": 2.865,
+        "word": "的"
+      },
+      {
+        "confidence": 0.9369891,
+        "endTime": 3.345,
+        "startTime": 2.995,
+        "word": "人，"
+      },
+      {
+        "confidence": 0.8554452,
+        "endTime": 3.6850417,
+        "startTime": 3.5450418,
+        "word": "也"
+      },
+      {
+        "confidence": 0.9670311,
+        "endTime": 3.8250418,
+        "startTime": 3.6850417,
+        "word": "能"
+      },
+      {
+        "confidence": 0.959603,
+        "endTime": 4.0450416,
+        "startTime": 3.8250418,
+        "word": "通"
+      },
+      {
+        "confidence": 0.86701584,
+        "endTime": 4.205042,
+        "startTime": 4.0450416,
+        "word": "过"
+      },
+      {
+        "confidence": 0.8201717,
+        "endTime": 4.5250416,
+        "startTime": 4.205042,
+        "word": "学"
+      },
+      {
+        "confidence": 0.18344516,
+        "endTime": 5.015042,
+        "startTime": 4.9850416,
+        "word": "习、"
+      },
+      {
+        "confidence": 0.876955,
+        "endTime": 5.3550415,
+        "startTime": 5.1950417,
+        "word": "借"
+      },
+      {
+        "confidence": 0.7890907,
+        "endTime": 5.5650415,
+        "startTime": 5.3550415,
+        "word": "助"
+      },
+      {
+        "confidence": 0.94034123,
+        "endTime": 5.8550415,
+        "startTime": 5.5950418,
+        "word": "外"
+      },
+      {
+        "confidence": 0.88723546,
+        "endTime": 6.1350417,
+        "startTime": 5.8550415,
+        "word": "物，"
+      },
+      {
+        "confidence": 0.9050806,
+        "endTime": 6.6450834,
+        "startTime": 6.4800835,
+        "word": "做"
+      },
+      {
+        "confidence": 0.87099046,
+        "endTime": 6.8350835,
+        "startTime": 6.6450834,
+        "word": "到"
+      },
+      {
+        "confidence": 0.9270251,
+        "endTime": 7.1250834,
+        "startTime": 6.8350835,
+        "word": "从"
+      },
+      {
+        "confidence": 0.9223306,
+        "endTime": 7.4050837,
+        "startTime": 7.1250834,
+        "word": "前"
+      },
+      {
+        "confidence": 0.92761225,
+        "endTime": 7.6250834,
+        "startTime": 7.4050837,
+        "word": "做"
+      },
+      {
+        "confidence": 0.93493855,
+        "endTime": 7.7350836,
+        "startTime": 7.6250834,
+        "word": "不"
+      },
+      {
+        "confidence": 0.33603653,
+        "endTime": 7.7950835,
+        "startTime": 7.7350836,
+        "word": "到"
+      },
+      {
+        "confidence": 0.2251868,
+        "endTime": 7.8550835,
+        "startTime": 7.7950835,
+        "word": "的"
+      },
+      {
+        "confidence": 0.277809,
+        "endTime": 7.9150834,
+        "startTime": 7.8550835,
+        "word": "事。"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "chapter": 6,
+    "title": "回到当下",
+    "kind": "new",
+    "text": "从前，人借舟楫渡过江河。今天，我也可以借 AI 接触更多知识，尝试更多想法。工具让更多事情成为可能，学习让我把这些帮助，一点点变成自己的本领。",
+    "pause_after": 0.75,
+    "start": 163.4,
+    "end": 182.64,
+    "spoken": 18.48,
+    "words": [
+      {
+        "confidence": 0.9356591,
+        "endTime": 0.515,
+        "startTime": 0.235,
+        "word": "从"
+      },
+      {
+        "confidence": 0.9581916,
+        "endTime": 1.005,
+        "startTime": 0.515,
+        "word": "前，"
+      },
+      {
+        "confidence": 0.94100964,
+        "endTime": 1.675,
+        "startTime": 1.445,
+        "word": "人"
+      },
+      {
+        "confidence": 0.8295939,
+        "endTime": 1.915,
+        "startTime": 1.675,
+        "word": "借"
+      },
+      {
+        "confidence": 0.94535214,
+        "endTime": 2.205,
+        "startTime": 1.915,
+        "word": "舟"
+      },
+      {
+        "confidence": 0.94107574,
+        "endTime": 2.645,
+        "startTime": 2.205,
+        "word": "楫"
+      },
+      {
+        "confidence": 0.905685,
+        "endTime": 2.845,
+        "startTime": 2.675,
+        "word": "渡"
+      },
+      {
+        "confidence": 0.8208061,
+        "endTime": 2.985,
+        "startTime": 2.845,
+        "word": "过"
+      },
+      {
+        "confidence": 0.903801,
+        "endTime": 3.285,
+        "startTime": 2.985,
+        "word": "江"
+      },
+      {
+        "confidence": 0.98458195,
+        "endTime": 3.765,
+        "startTime": 3.285,
+        "word": "河。"
+      },
+      {
+        "confidence": 0.92572975,
+        "endTime": 4.6050415,
+        "startTime": 4.3800416,
+        "word": "今"
+      },
+      {
+        "confidence": 0.98590523,
+        "endTime": 5.0150414,
+        "startTime": 4.6050415,
+        "word": "天，"
+      },
+      {
+        "confidence": 0.6991895,
+        "endTime": 5.6550417,
+        "startTime": 5.535042,
+        "word": "我"
+      },
+      {
+        "confidence": 0.98939484,
+        "endTime": 5.7650414,
+        "startTime": 5.6550417,
+        "word": "也"
+      },
+      {
+        "confidence": 0.8010889,
+        "endTime": 5.9450417,
+        "startTime": 5.7650414,
+        "word": "可"
+      },
+      {
+        "confidence": 0.70623755,
+        "endTime": 6.0450416,
+        "startTime": 5.9450417,
+        "word": "以"
+      },
+      {
+        "confidence": 0.83383995,
+        "endTime": 6.2750416,
+        "startTime": 6.0450416,
+        "word": "借"
+      },
+      {
+        "confidence": 0.8683377,
+        "endTime": 6.8450413,
+        "startTime": 6.575042,
+        "word": "AI"
+      },
+      {
+        "confidence": 0.8432857,
+        "endTime": 7.075042,
+        "startTime": 6.9050417,
+        "word": "接"
+      },
+      {
+        "confidence": 0.93966365,
+        "endTime": 7.2650414,
+        "startTime": 7.075042,
+        "word": "触"
+      },
+      {
+        "confidence": 0.8447148,
+        "endTime": 7.495042,
+        "startTime": 7.2650414,
+        "word": "更"
+      },
+      {
+        "confidence": 0.98900056,
+        "endTime": 7.6850414,
+        "startTime": 7.495042,
+        "word": "多"
+      },
+      {
+        "confidence": 0.8921956,
+        "endTime": 7.9250417,
+        "startTime": 7.6850414,
+        "word": "知"
+      },
+      {
+        "confidence": 0.82999706,
+        "endTime": 8.265041,
+        "startTime": 7.9250417,
+        "word": "识，"
+      },
+      {
+        "confidence": 0.9695031,
+        "endTime": 8.885042,
+        "startTime": 8.635042,
+        "word": "尝"
+      },
+      {
+        "confidence": 0.953014,
+        "endTime": 9.125042,
+        "startTime": 8.885042,
+        "word": "试"
+      },
+      {
+        "confidence": 0.9161852,
+        "endTime": 9.325042,
+        "startTime": 9.125042,
+        "word": "更"
+      },
+      {
+        "confidence": 0.98846745,
+        "endTime": 9.455042,
+        "startTime": 9.325042,
+        "word": "多"
+      },
+      {
+        "confidence": 0.32948998,
+        "endTime": 9.535042,
+        "startTime": 9.455042,
+        "word": "想"
+      },
+      {
+        "confidence": 0.25156066,
+        "endTime": 9.595041,
+        "startTime": 9.535042,
+        "word": "法。"
+      },
+      {
+        "confidence": 0.9414956,
+        "endTime": 10.965083,
+        "startTime": 10.725083,
+        "word": "工"
+      },
+      {
+        "confidence": 0.81919706,
+        "endTime": 11.325084,
+        "startTime": 10.965083,
+        "word": "具"
+      },
+      {
+        "confidence": 0.92172337,
+        "endTime": 11.515083,
+        "startTime": 11.325084,
+        "word": "让"
+      },
+      {
+        "confidence": 0.916541,
+        "endTime": 11.695084,
+        "startTime": 11.515083,
+        "word": "更"
+      },
+      {
+        "confidence": 0.9827314,
+        "endTime": 11.835083,
+        "startTime": 11.695084,
+        "word": "多"
+      },
+      {
+        "confidence": 0.96922475,
+        "endTime": 12.095083,
+        "startTime": 11.835083,
+        "word": "事"
+      },
+      {
+        "confidence": 0.79067427,
+        "endTime": 12.3150835,
+        "startTime": 12.095083,
+        "word": "情"
+      },
+      {
+        "confidence": 0.95457214,
+        "endTime": 12.505083,
+        "startTime": 12.3150835,
+        "word": "成"
+      },
+      {
+        "confidence": 0.95148426,
+        "endTime": 12.635083,
+        "startTime": 12.505083,
+        "word": "为"
+      },
+      {
+        "confidence": 0.9495325,
+        "endTime": 12.895083,
+        "startTime": 12.635083,
+        "word": "可"
+      },
+      {
+        "confidence": 0.9817404,
+        "endTime": 13.245083,
+        "startTime": 12.895083,
+        "word": "能，"
+      },
+      {
+        "confidence": 0.8631559,
+        "endTime": 14.015125,
+        "startTime": 13.800125,
+        "word": "学"
+      },
+      {
+        "confidence": 0.95428693,
+        "endTime": 14.505125,
+        "startTime": 14.015125,
+        "word": "习"
+      },
+      {
+        "confidence": 0.96826154,
+        "endTime": 14.885125,
+        "startTime": 14.735126,
+        "word": "让"
+      },
+      {
+        "confidence": 0.91626936,
+        "endTime": 14.985125,
+        "startTime": 14.885125,
+        "word": "我"
+      },
+      {
+        "confidence": 0.9365629,
+        "endTime": 15.165125,
+        "startTime": 14.985125,
+        "word": "把"
+      },
+      {
+        "confidence": 0.88119274,
+        "endTime": 15.305125,
+        "startTime": 15.165125,
+        "word": "这"
+      },
+      {
+        "confidence": 0.83047724,
+        "endTime": 15.475125,
+        "startTime": 15.305125,
+        "word": "些"
+      },
+      {
+        "confidence": 0.9578005,
+        "endTime": 15.725125,
+        "startTime": 15.475125,
+        "word": "帮"
+      },
+      {
+        "confidence": 0.9384772,
+        "endTime": 16.075125,
+        "startTime": 15.725125,
+        "word": "助，"
+      },
+      {
+        "confidence": 0.92024463,
+        "endTime": 16.415125,
+        "startTime": 16.285126,
+        "word": "一"
+      },
+      {
+        "confidence": 0.9334216,
+        "endTime": 16.645124,
+        "startTime": 16.415125,
+        "word": "点"
+      },
+      {
+        "confidence": 0.8097023,
+        "endTime": 16.905125,
+        "startTime": 16.645124,
+        "word": "点"
+      },
+      {
+        "confidence": 0.90832496,
+        "endTime": 17.135124,
+        "startTime": 16.905125,
+        "word": "变"
+      },
+      {
+        "confidence": 0.9855096,
+        "endTime": 17.325125,
+        "startTime": 17.135124,
+        "word": "成"
+      },
+      {
+        "confidence": 0.9779262,
+        "endTime": 17.515125,
+        "startTime": 17.325125,
+        "word": "自"
+      },
+      {
+        "confidence": 0.75553143,
+        "endTime": 17.655125,
+        "startTime": 17.515125,
+        "word": "己"
+      },
+      {
+        "confidence": 0.19727162,
+        "endTime": 17.715126,
+        "startTime": 17.655125,
+        "word": "的"
+      },
+      {
+        "confidence": 0.19549274,
+        "endTime": 17.775126,
+        "startTime": 17.715126,
+        "word": "本"
+      },
+      {
+        "confidence": 0.17613198,
+        "endTime": 17.835125,
+        "startTime": 17.775126,
+        "word": "领。"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "chapter": 6,
+    "title": "回到当下",
+    "kind": "new",
+    "text": "所以，我还要学着提出自己的问题，分辨不同的解释，把想法真正做出来。一次次尝试，一点点积累，我也能超越今天的自己。",
+    "pause_after": 0.75,
+    "start": 182.64,
+    "end": 198.56,
+    "spoken": 15.144,
+    "words": [
+      {
+        "confidence": 0.7523086,
+        "endTime": 0.645,
+        "startTime": 0.275,
+        "word": "所"
+      },
+      {
+        "confidence": 0.9776224,
+        "endTime": 0.965,
+        "startTime": 0.645,
+        "word": "以，"
+      },
+      {
+        "confidence": 0.800332,
+        "endTime": 1.375,
+        "startTime": 1.265,
+        "word": "我"
+      },
+      {
+        "confidence": 0.95735556,
+        "endTime": 1.595,
+        "startTime": 1.375,
+        "word": "还"
+      },
+      {
+        "confidence": 0.97841585,
+        "endTime": 1.735,
+        "startTime": 1.595,
+        "word": "要"
+      },
+      {
+        "confidence": 0.9565851,
+        "endTime": 2.035,
+        "startTime": 1.735,
+        "word": "学"
+      },
+      {
+        "confidence": 0.8547638,
+        "endTime": 2.205,
+        "startTime": 2.035,
+        "word": "着"
+      },
+      {
+        "confidence": 0.9090733,
+        "endTime": 2.445,
+        "startTime": 2.205,
+        "word": "提"
+      },
+      {
+        "confidence": 0.97053814,
+        "endTime": 2.705,
+        "startTime": 2.445,
+        "word": "出"
+      },
+      {
+        "confidence": 0.96707636,
+        "endTime": 2.885,
+        "startTime": 2.705,
+        "word": "自"
+      },
+      {
+        "confidence": 0.9938687,
+        "endTime": 3.035,
+        "startTime": 2.885,
+        "word": "己"
+      },
+      {
+        "confidence": 0.9475048,
+        "endTime": 3.185,
+        "startTime": 3.035,
+        "word": "的"
+      },
+      {
+        "confidence": 0.94868964,
+        "endTime": 3.415,
+        "startTime": 3.185,
+        "word": "问"
+      },
+      {
+        "confidence": 0.9776214,
+        "endTime": 3.815,
+        "startTime": 3.415,
+        "word": "题，"
+      },
+      {
+        "confidence": 0.87831086,
+        "endTime": 4.5050416,
+        "startTime": 4.305042,
+        "word": "分"
+      },
+      {
+        "confidence": 0.92149836,
+        "endTime": 4.6950417,
+        "startTime": 4.5050416,
+        "word": "辨"
+      },
+      {
+        "confidence": 0.9209849,
+        "endTime": 4.8850417,
+        "startTime": 4.6950417,
+        "word": "不"
+      },
+      {
+        "confidence": 0.9600443,
+        "endTime": 5.145042,
+        "startTime": 4.8850417,
+        "word": "同"
+      },
+      {
+        "confidence": 0.9399406,
+        "endTime": 5.285042,
+        "startTime": 5.145042,
+        "word": "的"
+      },
+      {
+        "confidence": 0.9056149,
+        "endTime": 5.6050415,
+        "startTime": 5.285042,
+        "word": "解"
+      },
+      {
+        "confidence": 0.963496,
+        "endTime": 6.0650415,
+        "startTime": 5.6050415,
+        "word": "释，"
+      },
+      {
+        "confidence": 0.88328135,
+        "endTime": 6.5650415,
+        "startTime": 6.4250417,
+        "word": "把"
+      },
+      {
+        "confidence": 0.7490499,
+        "endTime": 6.875042,
+        "startTime": 6.5650415,
+        "word": "想"
+      },
+      {
+        "confidence": 0.97103256,
+        "endTime": 7.255042,
+        "startTime": 6.875042,
+        "word": "法"
+      },
+      {
+        "confidence": 0.92779124,
+        "endTime": 7.555042,
+        "startTime": 7.375042,
+        "word": "真"
+      },
+      {
+        "confidence": 0.9338592,
+        "endTime": 7.765042,
+        "startTime": 7.555042,
+        "word": "正"
+      },
+      {
+        "confidence": 0.9428404,
+        "endTime": 8.085042,
+        "startTime": 7.765042,
+        "word": "做"
+      },
+      {
+        "confidence": 0.9782569,
+        "endTime": 8.295042,
+        "startTime": 8.085042,
+        "word": "出"
+      },
+      {
+        "confidence": 0.9648594,
+        "endTime": 8.505041,
+        "startTime": 8.295042,
+        "word": "来。"
+      },
+      {
+        "confidence": 0.8448664,
+        "endTime": 9.365084,
+        "startTime": 9.185083,
+        "word": "一"
+      },
+      {
+        "confidence": 0.9641509,
+        "endTime": 9.585083,
+        "startTime": 9.365084,
+        "word": "次"
+      },
+      {
+        "confidence": 0.9010216,
+        "endTime": 9.755083,
+        "startTime": 9.585083,
+        "word": "次"
+      },
+      {
+        "confidence": 0.96400493,
+        "endTime": 10.135083,
+        "startTime": 9.755083,
+        "word": "尝"
+      },
+      {
+        "confidence": 0.967143,
+        "endTime": 10.665083,
+        "startTime": 10.135083,
+        "word": "试，"
+      },
+      {
+        "confidence": 0.8482311,
+        "endTime": 11.105083,
+        "startTime": 10.955084,
+        "word": "一"
+      },
+      {
+        "confidence": 0.90850663,
+        "endTime": 11.325084,
+        "startTime": 11.105083,
+        "word": "点"
+      },
+      {
+        "confidence": 0.9207862,
+        "endTime": 11.535084,
+        "startTime": 11.325084,
+        "word": "点"
+      },
+      {
+        "confidence": 0.9025205,
+        "endTime": 11.875084,
+        "startTime": 11.535084,
+        "word": "积"
+      },
+      {
+        "confidence": 0.85551333,
+        "endTime": 12.095083,
+        "startTime": 11.875084,
+        "word": "累，"
+      },
+      {
+        "confidence": 0.7777991,
+        "endTime": 12.895083,
+        "startTime": 12.745083,
+        "word": "我"
+      },
+      {
+        "confidence": 0.931846,
+        "endTime": 13.055083,
+        "startTime": 12.895083,
+        "word": "也"
+      },
+      {
+        "confidence": 0.9257966,
+        "endTime": 13.235084,
+        "startTime": 13.055083,
+        "word": "能"
+      },
+      {
+        "confidence": 0.92734075,
+        "endTime": 13.585083,
+        "startTime": 13.235084,
+        "word": "超"
+      },
+      {
+        "confidence": 0.9436832,
+        "endTime": 13.735084,
+        "startTime": 13.585083,
+        "word": "越"
+      },
+      {
+        "confidence": 0.8977785,
+        "endTime": 14.015083,
+        "startTime": 13.735084,
+        "word": "今"
+      },
+      {
+        "confidence": 0.97031534,
+        "endTime": 14.255083,
+        "startTime": 14.015083,
+        "word": "天"
+      },
+      {
+        "confidence": 0.9008147,
+        "endTime": 14.385083,
+        "startTime": 14.255083,
+        "word": "的"
+      },
+      {
+        "confidence": 0.9502536,
+        "endTime": 14.595083,
+        "startTime": 14.385083,
+        "word": "自"
+      },
+      {
+        "confidence": 0.9880279,
+        "endTime": 14.795084,
+        "startTime": 14.595083,
+        "word": "己。"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "chapter": 6,
+    "title": "回到当下",
+    "kind": "new",
+    "text": "“善假于物”，也要“学不可以已”。",
+    "pause_after": 0.75,
+    "start": 198.56,
+    "end": 203.8,
+    "spoken": 4.488,
+    "words": [
+      {
+        "confidence": 0.48546714,
+        "endTime": 0.045,
+        "startTime": 0,
+        "word": "“"
+      },
+      {
+        "confidence": 0.8543778,
+        "endTime": 0.815,
+        "startTime": 0.245,
+        "word": "善"
+      },
+      {
+        "confidence": 0.7949815,
+        "endTime": 1.155,
+        "startTime": 0.815,
+        "word": "假"
+      },
+      {
+        "confidence": 0.9337412,
+        "endTime": 1.415,
+        "startTime": 1.155,
+        "word": "于"
+      },
+      {
+        "confidence": 0.33494645,
+        "endTime": 1.755,
+        "startTime": 1.725,
+        "word": "物”，"
+      },
+      {
+        "confidence": 0.87190247,
+        "endTime": 2.345,
+        "startTime": 2.115,
+        "word": "也"
+      },
+      {
+        "confidence": 0.24144053,
+        "endTime": 2.375,
+        "startTime": 2.345,
+        "word": "要“"
+      },
+      {
+        "confidence": 0.8446479,
+        "endTime": 3.095,
+        "startTime": 2.655,
+        "word": "学"
+      },
+      {
+        "confidence": 0.9179069,
+        "endTime": 3.345,
+        "startTime": 3.095,
+        "word": "不"
+      },
+      {
+        "confidence": 0.8205815,
+        "endTime": 3.695,
+        "startTime": 3.345,
+        "word": "可"
+      },
+      {
+        "confidence": 0.7965997,
+        "endTime": 4.255,
+        "startTime": 3.695,
+        "word": "以"
+      },
+      {
+        "confidence": 0.30502048,
+        "endTime": 4.415,
+        "startTime": 4.385,
+        "word": "已”。"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "chapter": 6,
+    "title": "回到当下",
+    "kind": "new",
+    "text": "我想借今天的舟楫，去抵达昨天还到不了的地方。",
+    "pause_after": 3.0,
+    "start": 203.8,
+    "end": 212.64,
+    "spoken": 5.808,
+    "words": [
+      {
+        "confidence": 0.94539654,
+        "endTime": 0.415,
+        "startTime": 0.305,
+        "word": "我"
+      },
+      {
+        "confidence": 0.9465238,
+        "endTime": 0.905,
+        "startTime": 0.415,
+        "word": "想"
+      },
+      {
+        "confidence": 0.8857369,
+        "endTime": 1.155,
+        "startTime": 0.935,
+        "word": "借"
+      },
+      {
+        "confidence": 0.96430653,
+        "endTime": 1.355,
+        "startTime": 1.155,
+        "word": "今"
+      },
+      {
+        "confidence": 0.9758299,
+        "endTime": 1.515,
+        "startTime": 1.355,
+        "word": "天"
+      },
+      {
+        "confidence": 0.94445366,
+        "endTime": 1.645,
+        "startTime": 1.515,
+        "word": "的"
+      },
+      {
+        "confidence": 0.94411534,
+        "endTime": 1.905,
+        "startTime": 1.645,
+        "word": "舟"
+      },
+      {
+        "confidence": 0.9421899,
+        "endTime": 2.355,
+        "startTime": 1.905,
+        "word": "楫，"
+      },
+      {
+        "confidence": 0.9000463,
+        "endTime": 2.935,
+        "startTime": 2.735,
+        "word": "去"
+      },
+      {
+        "confidence": 0.8744233,
+        "endTime": 3.125,
+        "startTime": 2.935,
+        "word": "抵"
+      },
+      {
+        "confidence": 0.9112007,
+        "endTime": 3.335,
+        "startTime": 3.125,
+        "word": "达"
+      },
+      {
+        "confidence": 0.87138873,
+        "endTime": 3.605,
+        "startTime": 3.335,
+        "word": "昨"
+      },
+      {
+        "confidence": 0.98516273,
+        "endTime": 4.025,
+        "startTime": 3.605,
+        "word": "天"
+      },
+      {
+        "confidence": 0.8282972,
+        "endTime": 4.325,
+        "startTime": 4.125,
+        "word": "还"
+      },
+      {
+        "confidence": 0.960185,
+        "endTime": 4.555,
+        "startTime": 4.375,
+        "word": "到"
+      },
+      {
+        "confidence": 0.9137326,
+        "endTime": 4.695,
+        "startTime": 4.555,
+        "word": "不"
+      },
+      {
+        "confidence": 0.88705045,
+        "endTime": 4.835,
+        "startTime": 4.695,
+        "word": "了"
+      },
+      {
+        "confidence": 0.23750791,
+        "endTime": 4.895,
+        "startTime": 4.835,
+        "word": "的"
+      },
+      {
+        "confidence": 0.20798513,
+        "endTime": 4.955,
+        "startTime": 4.895,
+        "word": "地"
+      },
+      {
+        "confidence": 0.13532694,
+        "endTime": 5.015,
+        "startTime": 4.955,
+        "word": "方。"
+      }
+    ]
+  }
+]
